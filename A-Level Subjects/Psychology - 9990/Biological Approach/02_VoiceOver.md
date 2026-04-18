@@ -1,28 +1,50 @@
-# Voice-Over Script: Biological Approach (Psychology - 9990)
+# Voice-Over Script: Biological Approach (Cambridge International AS & A Level Psychology 9990)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Psychology - 9990: Biological Approach. Welcome to Class!"]**
-
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Psychology - 9990 syllabus: **Biological Approach**. Understanding these core principles is absolutely essential for mastering the curriculum."
-
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Biological Approach.]**
+**[Visual: Brain scan collage and title card "Biological Approach"]**
 
 **Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Biological Approach, our foundation involves mastering the initial variables and definitions."
+The biological approach asks a direct question: how far can behavior be explained by the body and brain?
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+---
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Biological Approach, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
-
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Diagram of CNS, PNS, and endocrine glands]**
 
 **Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+Start with systems. The central nervous system handles processing. The peripheral system connects body and brain. The endocrine system adds hormonal control that is slower but longer-lasting.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
+
+**[Visual: Frontal, temporal, parietal, occipital lobes highlighted]**
 
 **Narrator:**
-"And there you have it: the key essentials of Biological Approach. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+Different brain areas support different functions: planning, memory, perception, and language. In exams, connect each area to behavior clearly instead of listing terms.
 
-**[Visual: Fade to black. End screen.]**
+---
+
+**[Visual: Synapse animation with neurotransmitters crossing the gap]**
+
+**Narrator:**
+Neurotransmitters like dopamine and serotonin help explain mood and motivation, but avoid single-cause claims. Strong answers explain interaction, not oversimplification.
+
+---
+
+**[Visual: DNA strand and twin silhouettes]**
+
+**Narrator:**
+Genetics matters too. Twin and adoption studies suggest inherited influences, yet genes are not destiny. Environment still shapes outcomes.
+
+---
+
+**[Visual: Exam paragraph template: claim -> evidence -> evaluation -> link]**
+
+**Narrator:**
+To score top marks, balance your essay: explain the biological point, support it with evidence, evaluate limits, then link back to the question.
+
+---
+
+**[Visual: Checklist card]**
+
+**Narrator:**
+Revise core systems, key terminology, and one strong evaluate paragraph. Next: learning approach.
+
+**[Visual: End card]**

@@ -1,28 +1,43 @@
-# Voice-Over Script: Social Inequality (Sociology - 9699)
+# Voice-Over Script: Social Inequality (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Social Inequality. Welcome to Class!"]**
+**[Visual: Layered pyramid — wealth, power, prestige labels]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Social Inequality**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Social inequality is about who gets what—and why that pattern **repeats** across lives and generations. Stratification is not random; it is tied to institutions and history.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Social Inequality.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Social Inequality, our foundation involves mastering the initial variables and definitions."
+**[Visual: Factory owners vs workers — Marxist caption “exploitation / surplus”]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Marxist sociology links class to production and power. Weber adds status and political power—useful when economics alone does not explain a pattern.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Social Inequality, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Pay gap and care work icons — gender]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Gender inequality shows up in wages, housework, safety, and voice in decisions. Name **patriarchy** and show **how** it operates in institutions, not only attitudes.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Social Inequality. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Job interview — subtle bias symbols]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Ethnic inequality includes prejudice, but also **rules and routines** that disadvantage groups even without “bad intentions.” That is institutional discrimination.
+
+---
+
+**[Visual: World map — rich/poor regions, trade arrows]**
+
+**Narrator:**  
+Global inequality connects empires, trade, debt, and migration. Strong answers explain **links**, not just describe poverty.
+
+---
+
+**[Visual: Checklist — define, theory, evidence, intersectionality]**
+
+**Narrator:**  
+Revise mobility types and theories, then practise arguing with **intersection** in mind. Next: **Crime, Deviance and Social Control**.
+
+**[Visual: End card]**

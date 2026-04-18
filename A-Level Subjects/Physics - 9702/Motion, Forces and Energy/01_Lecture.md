@@ -1,26 +1,107 @@
-# Complete Lecture: Motion, Forces and Energy (Physics - 9702)
+# Complete Lecture: Motion, Forces and Energy (Cambridge International AS & A Level Physics 9702)
 
-Welcome to today's essential lecture on **Motion, Forces and Energy**. 
-This module forms a critical component of the Cambridge Physics - 9702 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **kinematics**, **dynamics**, **work**, **energy**, and **momentum**—core mechanics for **9702**. Official programme: [Cambridge International AS & A Level Physics (9702)](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Motion, Forces and Energy, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Physics - 9702.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Motion, Forces and Energy, we apply specific theoretical frameworks established in the Physics - 9702 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Scalars and vectors
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Motion, Forces and Energy in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- **Scalar:** magnitude only (e.g. **mass**, **speed**, **energy**).  
+- **Vector:** magnitude **and** direction (e.g. **displacement**, **velocity**, **force**, **momentum**).
 
-## Summary & Next Steps
-You have now covered the essentials of Motion, Forces and Energy. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+**Resultant:** **triangle** or **parallelogram** rule; **components** **Fₓ = F cos θ**, **Fᵧ = F sin θ** (with **consistent** angle definition).
 
-**Class Dismissed!**
+---
+
+## 2. Kinematics (uniform acceleration)
+
+**SUVAT** equations (constant **a**), with **sign convention** fixed **once** per problem:
+
+- **v = u + at**  
+- **s = ½(u + v)t**  
+- **s = ut + ½at²**  
+- **v² = u² + 2as**
+
+**Projectile motion:** **horizontal** and **vertical** **components** **independent** (neglect air resistance unless stated); **aᵧ = −g** if **up** positive.
+
+**Displacement–time** and **velocity–time** **graphs:** **gradient** of **s–t** = **v**; **gradient** of **v–t** = **a**; **area** under **v–t** = **displacement**.
+
+---
+
+## 3. Newton’s laws of motion
+
+1. **Equilibrium** of **velocity** unless **resultant** **force** acts.  
+2. **F = ma** (resultant **force**); **N** = **kg m s⁻²**.  
+3. **Action** and **reaction** are **equal**, **opposite**, and on **different** bodies.
+
+**Weight:** **W = mg** (near Earth **g ≈ 9.81 m s⁻²** unless data given).
+
+**Friction / drag:** oppose **motion** or **impending** motion; **limiting** friction **F ≤ μR** (definitions per syllabus).
+
+---
+
+## 4. Work, energy, and power
+
+**Work done** by constant **force** at **angle θ** to **displacement:** **W = Fs cos θ** (only **component** **parallel** to **s** does work).
+
+**Kinetic energy:** **Eₖ = ½mv²**  
+**Gravitational PE** (near Earth): **Eₚ = mgh** (**h** relative to **chosen** **zero** level).
+
+**Principle of conservation of mechanical energy** (no **non-conservative** work): **Eₖ + Eₚ** constant.
+
+**Power:** **P = W / t**; for **constant** **force** along **motion**, **P = Fv**.
+
+**Efficiency:** **η = (useful energy or power out) / (total in) × 100%**.
+
+---
+
+## 5. Momentum and impulse
+
+**Linear momentum:** **p = mv** (vector).
+
+**Newton 2** as **rate of change of momentum:** **F = Δp / Δt** (resultant).
+
+**Impulse:** **J = FΔt = Δp** (area under **F–t** graph).
+
+**Conservation of momentum:** for **isolated** system (no **external** resultant), **Σp before = Σp after** (vector sum along **line** of collision **or** **components**).
+
+**Elastic vs inelastic:** **elastic** — **kinetic energy** also conserved; **inelastic** — **objects** may **stick** (**maximum** **KE loss** in **perfectly** inelastic **head-on** case).
+
+---
+
+## 6. Moments and equilibrium (synoptic)
+
+**Moment** = **force × perpendicular distance** to **pivot**. **Σ moments = 0** for **rotational** equilibrium.
+
+---
+
+## 7. Examination skills
+
+- **SI** **units** on **every** **numerical** **answer**; **significant figures** match **data**.  
+- **Free-body** **diagrams** before **F = ma**.  
+- **Define** **symbols** when **deriving**.
+
+---
+
+## Common misconceptions
+
+- **Distance** vs **displacement**; **speed** vs **velocity**.  
+- **Work** by **weight** on **horizontal** **motion** = **0** (perpendicular to **displacement**).  
+- **Internal** forces in a **pair** **do not** change **total** **momentum** of **system**.
+
+---
+
+## Revision checklist
+
+- [ ] **SUVAT** with **consistent** **signs**; **projectiles**.  
+- [ ] **Newton** **laws** + **diagrams**; **weight** **vs** **mass**.  
+- [ ] **Work**, **energy**, **power**, **efficiency**.  
+- [ ] **Momentum** **conservation**; **impulse**; **collisions** **qualitative** + **quantitative**.
+
+**Next:** **Waves**.
+
+---
+
+### Reference
+
+- [Cambridge 9702](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/)

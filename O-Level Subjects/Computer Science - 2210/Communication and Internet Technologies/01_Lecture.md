@@ -1,26 +1,73 @@
-# Complete Lecture: Communication and Internet Technologies (Computer Science - 2210)
+# Complete Lecture: Communication and Internet Technologies (Cambridge International O Level Computer Science 2210)
 
-Welcome to today's essential lecture on **Communication and Internet Technologies**. 
-This module forms a critical component of the Cambridge Computer Science - 2210 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **networks**, **internet structure**, **protocols**, **world wide web**, **email**, and related **concepts** at **O Level**. Programme: [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Communication and Internet Technologies, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Computer Science - 2210.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Communication and Internet Technologies, we apply specific theoretical frameworks established in the Computer Science - 2210 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Networks and topologies
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Communication and Internet Technologies in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- **LAN** (local area network) vs **WAN** (wide area network)—**geographic** scope and **ownership** patterns (typical contrasts).
+- **Topologies** (bus, star, ring—know **diagrams**, **advantages**, **disadvantages** per syllabus).
+- **Network devices:** NIC, switch, router, wireless access point (roles at concept level).
 
-## Summary & Next Steps
-You have now covered the essentials of Communication and Internet Technologies. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Transmission media
+
+- **Wired:** copper (twisted pair, coax), **fibre optic** (high bandwidth, low attenuation).
+- **Wireless:** Wi-Fi, Bluetooth—**benefits** (mobility) and **issues** (interference, security).
+
+---
+
+## 3. Internet vs web
+
+- **Internet:** global **interconnected** networks using common protocols.
+- **World Wide Web:** **HTTP/HTTPS** services accessed via **browsers**; **URLs** identify resources.
+
+---
+
+## 4. Key protocols (typical O Level set)
+
+Understand purpose, not every header byte:
+- **IP** addressing and **packets** (routing across networks).
+- **TCP** reliable streams vs **UDP** low-overhead datagrams (conceptual contrast if examined).
+- **DNS** maps **domain names** to **IP addresses**.
+- **HTTP/HTTPS** for web; **SMTP/POP/IMAP** ideas for email (as per syllabus wording).
+
+---
+
+## 5. Client–server model
+
+- **Server** provides a service; **client** requests it (web, email, file servers).
+- **Cloud** services: remote servers, scalability—link to **availability** and **cost** trade-offs.
+
+---
+
+## 6. Security links (preview)
+
+Encryption in **HTTPS**, **firewalls**, **authentication**—detailed threats are developed in **Security and Ethics**.
+
+---
+
+## Common misconceptions
+
+- **Wi-Fi** is not “the internet”—it is one **access** medium.
+- **Bandwidth** vs **latency**: big pipe does not always mean instant response.
+- **IP address** is not the same as a **URL**.
+
+---
+
+## Revision checklist
+
+- [ ] Draw and explain one topology with pros/cons.
+- [ ] Describe packet switching in simple terms.
+- [ ] Explain DNS, HTTP, and email stages at outline level.
+- [ ] Compare LAN and WAN with examples.
+
+**Next:** Boolean Logic.
+
+---
+
+### Reference
+
+- [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/)

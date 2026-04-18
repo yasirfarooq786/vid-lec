@@ -1,28 +1,43 @@
-# Voice-Over Script: Programming Concepts (Computer Science - 2210)
+# Voice-Over Script: Programming Concepts (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Programming Concepts. Welcome to Class!"]**
+**[Visual: Code editor — variables declared with types]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Programming Concepts**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Programs manipulate data in **variables**. Pick the right **type** so operations make sense—integers for counts, strings for text, Booleans for true and false.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Programming Concepts.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Programming Concepts, our foundation involves mastering the initial variables and definitions."
+**[Visual: IF branch and loop side by side]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**Selection** chooses paths. **Iteration** repeats work. Examiners reward clear structure and correct loop boundaries—especially the last value in a **FOR** loop.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Programming Concepts, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Array as numbered boxes — index arrows]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Arrays store many values under one name. Your syllabus decides whether indexing starts at zero or one—**always** check before you trace code.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Programming Concepts. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Procedure box with parameters feeding in and out]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Split programs into **procedures** or **functions** to reduce repetition. Functions **return** values; procedures organise steps. Name everything so future-you understands it.
+
+---
+
+**[Visual: Test table — normal, boundary, invalid]**
+
+**Narrator:**  
+Good programmers test on purpose: normal cases, edge values, and rubbish inputs if validation exists.
+
+---
+
+**[Visual: Checklist — types, loops, arrays, modular code]**
+
+**Narrator:**  
+Revise operators and array bounds, then practise one full structured task under time. Next: **Data Representation**.
+
+**[Visual: End card]**

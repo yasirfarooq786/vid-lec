@@ -1,26 +1,88 @@
-# Complete Lecture: Crime, Deviance and Social Control (Sociology - 9699)
+# Complete Lecture: Crime, Deviance and Social Control (Cambridge International AS & A Level Sociology 9699)
 
-Welcome to today's essential lecture on **Crime, Deviance and Social Control**. 
-This module forms a critical component of the Cambridge Sociology - 9699 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **crime vs deviance**, **social control**, **victimisation**, and **major theories** for **9699**. Programme: [Cambridge 9699](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-sociology-9699/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Crime, Deviance and Social Control, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Sociology - 9699.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Crime, Deviance and Social Control, we apply specific theoretical frameworks established in the Sociology - 9699 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Core definitions
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Crime, Deviance and Social Control in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- **Crime:** behaviour that breaks **criminal law** (state punishment).
+- **Deviance:** behaviour that breaks **social norms** (may not be illegal).
+- **Social control:** formal (law, courts, police) and informal (family, peers, shame).
 
-## Summary & Next Steps
-You have now covered the essentials of Crime, Deviance and Social Control. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Measuring crime (evaluation essential)
+
+- **Official statistics:** police-recorded crime—**under-reporting**, recording practices, policy changes.
+- **Victim surveys:** help reveal **dark figure**—limitations in memory, sampling.
+- **Self-report studies:** useful for **minor** offences—honesty and sample issues.
+
+Always ask: **what is counted, by whom, and with what bias?**
+
+---
+
+## 3. Functionalist and strain traditions
+
+- **Durkheim:** crime can be **functional** in limited ways (boundary-setting)—but **too much** crime threatens **anomie** / solidarity (concepts used carefully).
+- **Merton (strain):** legitimate means vs cultural goals—**innovation**, **ritualism**, etc. (link to inequality).
+
+---
+
+## 4. Interactionism and labelling
+
+- **Primary** vs **secondary** deviance (Lemert).
+- **Labelling theory:** moral entrepreneurs, **stigma**, **self-fulfilling prophecy**.
+- **Social construction** of crime: laws reflect power (connect to Marxism/feminism).
+
+---
+
+## 5. Marxism and neo-Marxism
+
+- **Crime** linked to inequality; **state** and law as sites of class interest (debated).
+- **Chambers-style** critiques of “criminalisation” of working-class youth—evaluate evidence.
+
+---
+
+## 6. Feminism
+
+- **Gendered patterns** of offending and victimisation.
+- **Domestic violence** and under-reporting; **male dominance** in crime statistics (offending) vs hidden female crime types.
+
+---
+
+## 7. Realism (where syllabus expects)
+
+- **Right realism:** focus on **rational choice**, **underclass** debates—evaluate carefully.
+- **Left realism:** **relative deprivation**, **marginalisation**, community victimisation—policy implications.
+
+---
+
+## 8. Crime, media, and fear
+
+- **Moral panics** (Cohen-style analysis): amplification spiral—evaluate case evidence.
+- Media **agenda-setting** and stereotypes.
+
+---
+
+## Common misconceptions
+
+- Higher arrest rates do not prove “innate” criminality—think **policing**, **recording**, **labelling**.
+- **Victimless crime** is still debated—power and morality matter.
+
+---
+
+## Revision checklist
+
+- [ ] Define crime, deviance, social control with examples.
+- [ ] Evaluate official stats vs victim surveys vs self-report.
+- [ ] Explain labelling as a sequence with a named example pattern.
+- [ ] Compare two theories on the same topic (e.g. strain vs labelling).
+
+**Next:** Media.
+
+---
+
+### Reference
+
+- [Cambridge 9699](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-sociology-9699/)

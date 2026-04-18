@@ -1,28 +1,43 @@
-# Voice-Over Script: Culture, Identity and Socialisation (Sociology - 9699)
+# Voice-Over Script: Culture, Identity and Socialisation (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Culture, Identity and Socialisation. Welcome to Class!"]**
+**[Visual: Title card — Culture, Identity and Socialisation]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Culture, Identity and Socialisation**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Sociology starts with a simple idea: we are not born knowing how to live in society. **Culture** is shared meaning, and **socialisation** is how we learn it—through family, school, peers, and more.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Culture, Identity and Socialisation.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Culture, Identity and Socialisation, our foundation involves mastering the initial variables and definitions."
+**[Visual: Child with family, then school gates — labels “primary” vs “secondary”]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**Primary socialisation** happens first and goes deep—language and basic identity. **Secondary socialisation** widens the net: new rules, timetables, and peer pressure. Exams love clear definitions and real examples.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Culture, Identity and Socialisation, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Norms as “unwritten rules” — thumbs up / awkward stare]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Norms** are what people expect you to do. Break them and you might face informal sanctions—embarrassment, exclusion—or formal ones if laws are involved.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Culture, Identity and Socialisation. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Overlapping circles — gender, class, ethnicity, age]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Identity** is social. Roles and categories intersect. Strong answers show *how* society shapes options, not just that people “choose freely.”
+
+---
+
+**[Visual: Four panels — functionalist harmony vs Marxist ideology vs feminist patriarchy vs interactionist negotiation]**
+
+**Narrator:**  
+Theories disagree on *why* culture sticks. Functionalists stress shared values; Marxists stress ideology; feminists stress gender; interactionists stress everyday negotiation. Name the perspective and use it precisely.
+
+---
+
+**[Visual: Checklist — define, agencies, theory, evaluate]**
+
+**Narrator:**  
+Revise definitions, then practise linking agencies to outcomes. Next: **Family**.
+
+**[Visual: End card]**

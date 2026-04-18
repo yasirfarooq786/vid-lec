@@ -1,26 +1,70 @@
-# Complete Lecture: Security and Ethics (Computer Science - 2210)
+# Complete Lecture: Security and Ethics (Cambridge International O Level Computer Science 2210)
 
-Welcome to today's essential lecture on **Security and Ethics**. 
-This module forms a critical component of the Cambridge Computer Science - 2210 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **threats**, **defences**, **data protection ideas**, and **ethical** use of computing for **2210**. Programme: [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Security and Ethics, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Computer Science - 2210.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Security and Ethics, we apply specific theoretical frameworks established in the Computer Science - 2210 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Threats to systems and data
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Security and Ethics in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- **Malware:** viruses, worms, trojans, ransomware, spyware (know **symptoms** and **routes**).
+- **Unauthorised access:** weak passwords, phishing, social engineering.
+- **Data loss:** hardware failure, accidental deletion, disasters.
 
-## Summary & Next Steps
-You have now covered the essentials of Security and Ethics. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Defences (typical toolkit)
+
+- **Authentication:** passwords, **2FA** where available, **biometrics** (trade-offs: convenience vs privacy).
+- **Authorisation:** permissions and roles—**least privilege** principle.
+- **Encryption:** protects **confidentiality** in transit (HTTPS) and at rest (disk encryption—conceptual).
+- **Firewall:** filters network traffic; **IDS/IPS** ideas at outline level if syllabus includes.
+- **Backups:** full/incremental concepts; **off-site** storage; **restore testing**.
+
+---
+
+## 3. Physical and procedural security
+
+- Locked doors, CCTV for server rooms, disposal of storage media, clean-desk policies.
+- **Acceptable use** policies and staff training reduce human failure.
+
+---
+
+## 4. Ethics and legal awareness (general principles)
+
+Topics commonly discussed:
+- **Privacy** and consent for personal data.
+- **Intellectual property:** software licensing, copyright, plagiarism.
+- **Professional conduct:** accuracy, accountability, avoiding harm.
+
+Laws vary by country—exam answers should use **principles** and **typical** examples unless a question cites a specific regime.
+
+---
+
+## 5. AI and automation (if scenarios appear)
+
+Discuss **bias** in data, **transparency**, and **human oversight** without hype—link to **fairness** and **accountability**.
+
+---
+
+## Common misconceptions
+
+- **Antivirus** alone does not stop **phishing**—user judgement matters.
+- **Strong password** beats frequent trivial changes if it is unique and long.
+- **Encryption** does not stop all attacks—keys and endpoints must still be protected.
+
+---
+
+## Revision checklist
+
+- [ ] Classify threats vs defences in scenario questions.
+- [ ] Explain backup strategy: what, when, where, tested restore.
+- [ ] Discuss one ethical tension (privacy vs security) with balance.
+- [ ] Link HTTPS to confidentiality on web traffic.
+
+**Next:** Past Papers (exam technique).
+
+---
+
+### Reference
+
+- [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/)

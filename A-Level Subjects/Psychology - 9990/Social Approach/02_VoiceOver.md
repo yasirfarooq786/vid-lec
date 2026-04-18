@@ -1,28 +1,50 @@
-# Voice-Over Script: Social Approach (Psychology - 9990)
+# Voice-Over Script: Social Approach (Cambridge International AS & A Level Psychology 9990)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Psychology - 9990: Social Approach. Welcome to Class!"]**
-
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Psychology - 9990 syllabus: **Social Approach**. Understanding these core principles is absolutely essential for mastering the curriculum."
-
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Social Approach.]**
+**[Visual: Crowded street scene, then one person matching group behavior]**
 
 **Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Social Approach, our foundation involves mastering the initial variables and definitions."
+The social approach explains how other people shape what we think, feel, and do, even when no one says a word directly.
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+---
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Social Approach, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
-
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Three-column card: conformity, compliance, obedience]**
 
 **Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+In exams, define terms carefully. Conformity is matching the group. Compliance is outward agreement. Obedience is following authority.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
+
+**[Visual: Group discussion turning toward one extreme opinion]**
 
 **Narrator:**
-"And there you have it: the key essentials of Social Approach. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+Groups can improve decisions, but they can also create polarization, role pressure, and poor choices when critical thinking drops.
 
-**[Visual: Fade to black. End screen.]**
+---
+
+**[Visual: Attribution flow: behavior -> internal cause vs external cause]**
+
+**Narrator:**
+Attribution theory asks why we explain behavior the way we do. Biases like the fundamental attribution error can distort social judgment.
+
+---
+
+**[Visual: Headlines about stereotypes and discrimination with intervention icons]**
+
+**Narrator:**
+Social psychology also helps explain prejudice and stereotypes, and it provides practical intervention ideas for schools and communities.
+
+---
+
+**[Visual: Evaluation board with methods, ethics, culture]**
+
+**Narrator:**
+For evaluation marks, discuss both methodology and ideas: validity, ethics, cultural limits, and real-world value.
+
+---
+
+**[Visual: Final checklist card]**
+
+**Narrator:**
+Practice one paragraph comparing conformity and obedience in a scenario. Next: past papers and exam technique.
+
+**[Visual: End card]**

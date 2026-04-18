@@ -1,26 +1,80 @@
-# Complete Lecture: Space Physics (Physics - 9702)
+# Complete Lecture: Space Physics (Cambridge International AS & A Level Physics 9702)
 
-Welcome to today's essential lecture on **Space Physics**. 
-This module forms a critical component of the Cambridge Physics - 9702 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **gravitation**, **orbital motion**, **stellar** **distances**, and **cosmological** **ideas** at **typical** **9702** **depth**. Programme: [Cambridge 9702](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Space Physics, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Physics - 9702.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Space Physics, we apply specific theoretical frameworks established in the Physics - 9702 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Newton’s law of gravitation
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Space Physics in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+**Force** between **two** **point** **masses** **m₁**, **m₂** **separated** by **r**:
 
-## Summary & Next Steps
-You have now covered the essentials of Space Physics. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+**F = G m₁ m₂ / r²** (**G** **universal** **gravitational** **constant** from **data**).
 
-**Class Dismissed!**
+**Inverse-square** **law** — **field** **strength** **falls** **rapidly** with **distance**.
+
+---
+
+## 2. Gravitational field strength
+
+**g = F/m** at a **point** (**N kg⁻¹** same as **m s⁻²**).
+
+**Near** **surface** of **planet** **radius R**, **mass M**: **g = GM/R²** ( **spherical** **symmetry** **assumption** ).
+
+**Gravitational** **potential** **energy** ( **zero** at **infinity** convention ): **Eₚ = −Gm₁m₂/r** (**scalar**).
+
+---
+
+## 3. Circular orbits
+
+For **stable** **circular** **orbit** **radius r** **around** **massive** **body M**, **centripetal** **force** = **gravitational** **attraction**:
+
+**mv²/r = GMm/r²** → **v = √(GM/r)**.
+
+**Period:** **T = 2πr/v** → **Kepler’s third** **law** **form** **T² ∝ r³** for **same** **central** **body**.
+
+**Geostationary** **orbit:** **T = 24 h** ( **Earth** **rotation** ), **equatorial** **plane**, **same** **sense** as **Earth** **spin**.
+
+---
+
+## 4. Gravitational potential and escape speed
+
+**Potential** **φ** at **r**: **φ = −GM/r** (**per** **unit** **mass**).
+
+**Escape** **speed** from **surface** ( **ideal** **no** **atmosphere** ): **v_esc = √(2GM/R)** = **√(2gR)** **near** **surface**.
+
+---
+
+## 5. Stars and the Universe
+
+**Stellar** **parallax** **for** **distances** **to** **nearby** **stars** (**parsec** **pc** **definition** **from** **syllabus**).
+
+**Standard** **candles** (e.g. **types** of **variable** **stars** **at** **A2** **level** **if** **included**) — **distance** **ladder**.
+
+**Electromagnetic** **radiation** from **stars** — **spectra** **→** **temperature**, **composition**, **redshift**.
+
+**Hubble’s law** ( **form** **v = H₀ d** for **recessional** **speed** of **galaxies** ): **expanding** **Universe**; **Hubble** **time** **1/H₀** as **order-of-magnitude** **age** **estimate** (**not** **exact** **without** **model** **details**).
+
+---
+
+## Common misconceptions
+
+- **Orbiting** **astronauts** **are** **not** **“beyond** **gravity”** — **weightlessness** is **free** **fall** with **centripetal** **acceleration**.  
+- **Bigger** **orbit** → **lower** **orbital** **speed** **but** **longer** **period**.  
+- **Parsec** is **distance**, **not** **time**.
+
+---
+
+## Revision checklist
+
+- [ ] **F = Gm₁m₂/r²**; **g** **near** **planet**.  
+- [ ] **Circular** **orbit** **v**, **T**; **Kepler** **relation**.  
+- [ ] **Escape** **speed** **argument** **from** **energy**.  
+- [ ] **Parallax**; **Hubble** **law** **interpretation**.
+
+**Next:** **Past Papers** (exam technique).
+
+---
+
+### Reference
+
+- [Cambridge 9702](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/)

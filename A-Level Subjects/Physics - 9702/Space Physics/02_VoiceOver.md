@@ -1,28 +1,50 @@
-# Voice-Over Script: Space Physics (Physics - 9702)
+# Voice-Over Script: Space Physics (Cambridge International AS & A Level Physics 9702)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Physics - 9702: Space Physics. Welcome to Class!"]**
+**[Visual: Two masses — force arrows along line joining centres]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Physics - 9702 syllabus: **Space Physics**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+**Newton’s** **gravity** **pulls** **every** **pair** of **masses**. **Strength** **drops** with **the** **square** of **separation**—**so** **distance** **dominates** **how** **strong** **orbits** **feel**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Space Physics.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Space Physics, our foundation involves mastering the initial variables and definitions."
+**[Visual: Earth with satellite — r, v, F_grav toward centre]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+A **stable** **circular** **orbit** **balances** **gravitational** **pull** with **the** **centripetal** **demand** of **curved** **motion**. **Solve** **that** **equality** and **orbital** **speed** **falls** as **radius** **grows**—**wider** **rings**, **slower** **traffic**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Space Physics, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Geostationary orbit above equator — Earth rotates below]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Geostationary** **satellites** **match** **Earth’s** **spin** **period** and **sit** **over** **the** **equator**. **Ground** **dishes** **can** **stay** **pointed** **fixed**—**broadcast** and **weather** **imaging** **rely** on **that** **geometry**.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Space Physics. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Parallax — Earth positions six months apart, small angle]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Parallax** **triangulates** **nearby** **stars** using **Earth’s** **orbit** as **a** **baseline**. **Tiny** **angles** **mean** **parsecs**, **not** **metres**, **for** **comfortable** **numbers**.
+
+---
+
+**[Visual: Galaxy redshift spectrum — lines shifted]**
+
+**Narrator:**  
+**Cosmological** **redshift** **ties** **recession** to **distance** **in** **Hubble’s** **law**—**evidence** for **expansion**. **Treat** **H nought** as **the** **slope** **linking** **speed** and **distance** **in** **simple** **models**.
+
+---
+
+**[Visual: ISS astronaut floating — caption “in free fall”]**
+
+**Narrator:**  
+**Weightlessness** in **orbit** is **not** **zero** **gravity**—it’s **continuous** **free** **fall** **around** **Earth** where **support** **forces** **vanish**. **Language** **matters** in **definitions** **questions**.
+
+---
+
+**[Visual: Checklist — gravitation, orbits, parallax, Hubble]**
+
+**Narrator:**  
+**Sketch** **vectors** **toward** **the** **central** **body** **before** **algebra**. Next: **past** **papers**—**how** to **score** **method** **marks** **reliably**.
+
+**[Visual: End card]**

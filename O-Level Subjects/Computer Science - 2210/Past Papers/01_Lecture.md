@@ -1,26 +1,65 @@
-# Complete Lecture: Past Papers (Computer Science - 2210)
+# Complete Lecture: Past Papers and Examination Technique (Cambridge International O Level Computer Science 2210)
 
-Welcome to today's essential lecture on **Past Papers**. 
-This module forms a critical component of the Cambridge Computer Science - 2210 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This module is **exam technique** for **2210**: timing, command words, calculation checks, and trace discipline—not a substitute for topic revision. Programme: [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Past Papers, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Computer Science - 2210.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Past Papers, we apply specific theoretical frameworks established in the Computer Science - 2210 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. What past papers train
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Past Papers in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- **Recall** of definitions (hardware, protocols, SQL keywords).
+- **Procedures**: conversions, Boolean tables, trace tables, SQL queries.
+- **Problem solving**: complete algorithms, fix logic errors, explain trade-offs.
 
-## Summary & Next Steps
-You have now covered the essentials of Past Papers. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Before you answer
+
+1. Read the **whole** question; note **marks** per part.
+2. Underline **given data** and **output required**.
+3. Decide **units** (bits, bytes, Hz) and **notation** (binary/hex).
+
+---
+
+## 3. Calculation discipline
+
+- Show **working** for conversions and size estimates—method marks are common.
+- Check **powers of two** when appropriate (1 KB = 1024 bytes if syllabus states so—**follow the paper**).
+- Watch **rounding** only if asked.
+
+---
+
+## 4. Trace tables and logic
+
+- Use **rulers** or neat rows; one **mistake** propagates.
+- Re-read the algorithm for **off-by-one** and **branch** conditions.
+
+---
+
+## 5. SQL and pseudocode
+
+- Copy keywords **exactly** as your course expects (`SELECT`, `FROM`, `WHERE`).
+- Indent pseudocode; match **IF**/`END IF` and loop boundaries mentally.
+
+---
+
+## 6. Review cycle
+
+After each timed paper:
+1. Mark strictly.
+2. Log error types: **careless**, **concept**, **time**.
+3. Re-do **wrong items** next day without notes.
+
+---
+
+## Revision checklist
+
+- [ ] Timed past paper every 1–2 weeks in the final term.
+- [ ] Formula/conversion sheet memorised (bases, image size pattern).
+- [ ] Five SQL templates practised from prompts.
+- [ ] One full trace question weekly until perfect rows.
+
+---
+
+### Reference
+
+- [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/)

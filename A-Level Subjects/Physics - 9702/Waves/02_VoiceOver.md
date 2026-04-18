@@ -1,28 +1,43 @@
-# Voice-Over Script: Waves (Physics - 9702)
+# Voice-Over Script: Waves (Cambridge International AS & A Level Physics 9702)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Physics - 9702: Waves. Welcome to Class!"]**
+**[Visual: Sine wave labelled A, λ, one oscillation T]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Physics - 9702 syllabus: **Waves**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+A **progressive** wave **repeats** in **space** and **time**. **Amplitude** is **peak** **displacement**; **wavelength** is **one** **spatial** **repeat**; **period** is **one** **temporal** **repeat**. Link them with **v equals f lambda**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Waves.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Waves, our foundation involves mastering the initial variables and definitions."
+**[Visual: EM spectrum strip with increasing frequency]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**Electromagnetic** waves are **transverse** and **share** **speed c** in **vacuum**. Know the **order** from **radio** to **gamma** and **typical** **uses** or **hazards** at **exam** **depth**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Waves, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Two slits — bright and dark fringes on screen]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Superposition** adds **displacements**. **Coherent** **sources** give **stable** **interference**—**bright** fringes where **waves** **arrive** **in phase**, **dark** where they **cancel**. **Path difference** in **wavelengths** **controls** that **pattern**.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Waves. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Water ripple through narrow gap — spreading]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Diffraction** is **spreading** after a **gap**. It’s **strong** when **gap** **size** is **similar** to **wavelength**—**why** **sound** bends **round** **corners** more **easily** than **light** from **everyday** **sources**.
+
+---
+
+**[Visual: String fundamental and 2nd harmonic — nodes marked]**
+
+**Narrator:**  
+**Stationary** waves form from **two** **equal** **counter-propagating** waves. **Nodes** **never** **move**; **antinodes** **swing** **most**. On a **string** **fixed** **both** **ends**, **only** **certain** **wavelengths** **fit**—that’s **quantised** **normal** **modes**.
+
+---
+
+**[Visual: Checklist — v=fλ, interference, diffraction, standing waves]**
+
+**Narrator:**  
+Sketch **phase** and **path** **before** **algebra**. Next: **electricity and magnetism**.
+
+**[Visual: End card]**

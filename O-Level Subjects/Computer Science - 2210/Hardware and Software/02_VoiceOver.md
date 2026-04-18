@@ -1,28 +1,43 @@
-# Voice-Over Script: Hardware and Software (Computer Science - 2210)
+# Voice-Over Script: Hardware and Software (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Hardware and Software. Welcome to Class!"]**
+**[Visual: Block diagram — CPU, RAM, storage, I/O devices]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Hardware and Software**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+The classic story is **fetch–decode–execute**. The CPU pulls instructions from memory, the **ALU** does maths and logic, and results flow back through buses.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Hardware and Software.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Hardware and Software, our foundation involves mastering the initial variables and definitions."
+**[Visual: RAM chip vs hard drive — volatile vs persistent labels]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**RAM** is fast workspace—gone when power cuts. **Secondary storage** keeps files long-term. Exams love that contrast.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Hardware and Software, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: SSD vs HDD icons — speed vs cost discussion]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Solid-state storage wins on speed and shock resistance; magnetic disks still appear in cost-capacity trade-off questions.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Hardware and Software. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: OS as middle layer between user apps and hardware]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+The **operating system** manages memory, schedules tasks, organises files, and talks to hardware through **drivers**.
+
+---
+
+**[Visual: High-level code morphing to machine code — compiler vs interpreter labels]**
+
+**Narrator:**  
+High-level code needs translation. **Compilers** produce full programs ahead of time; **interpreters** run line by line; **assemblers** handle assembly mnemonics.
+
+---
+
+**[Visual: Checklist — CPU, memory, OS, translators]**
+
+**Narrator:**  
+Draw the diagram from memory, then explain each box in one sentence. Next: **Communication and Internet Technologies**.
+
+**[Visual: End card]**

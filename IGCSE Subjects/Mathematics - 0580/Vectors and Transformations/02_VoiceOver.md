@@ -1,0 +1,29 @@
+# Voice-Over Script: Vectors and Transformations (Cambridge IGCSE Mathematics 0580)
+
+**[Visual: Shape reflected and translated]**
+
+**Narrator:**  
+Vectors add like steps; transformations need a full description—centre, line, angle, scale factor.
+
+---
+
+**[Visual: Worked example skeleton — given, method, answer]**
+
+**Narrator:**  
+In exams, show **method** even when a calculator could jump ahead—method marks are often half the battle.
+
+---
+
+**[Visual: Common mistake flash — brackets, signs, units]**
+
+**Narrator:**  
+Slow down on signs, fractions, and units—those slips erase hard work on multi-mark questions.
+
+---
+
+**[Visual: Mini checklist for this topic]**
+
+**Narrator:**  
+Next: **Probability**.
+
+**[Visual: End card]**

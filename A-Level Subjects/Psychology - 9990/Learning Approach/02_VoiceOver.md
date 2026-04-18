@@ -1,28 +1,50 @@
-# Voice-Over Script: Learning Approach (Psychology - 9990)
+# Voice-Over Script: Learning Approach (Cambridge International AS & A Level Psychology 9990)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Psychology - 9990: Learning Approach. Welcome to Class!"]**
-
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Psychology - 9990 syllabus: **Learning Approach**. Understanding these core principles is absolutely essential for mastering the curriculum."
-
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Learning Approach.]**
+**[Visual: Split screen, dog bell diagram and classroom behavior chart]**
 
 **Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Learning Approach, our foundation involves mastering the initial variables and definitions."
+The learning approach asks how experience shapes behavior through association, consequence, and observation.
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+---
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Learning Approach, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
-
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Classical conditioning flow: UCS -> UCR, then CS + UCS -> CR]**
 
 **Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+In classical conditioning, a neutral stimulus gains meaning after repeated pairing. In exam answers, use the exact terms: UCS, UCR, CS, and CR.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
+
+**[Visual: Operant conditioning table with reinforcement and punishment]**
 
 **Narrator:**
-"And there you have it: the key essentials of Learning Approach. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+Operant conditioning focuses on consequences. Reinforcement increases behavior. Punishment decreases behavior. Keep this distinction precise, especially for short-definition questions.
 
-**[Visual: Fade to black. End screen.]**
+---
+
+**[Visual: Student observing peer reward and copying behavior]**
+
+**Narrator:**
+Social learning adds modeling. We imitate people who are rewarded, high status, or similar to us, but only if we attend, retain, and can reproduce the behavior.
+
+---
+
+**[Visual: Real-world examples: token economy, classroom points, exposure ladder]**
+
+**Narrator:**
+This approach is practical. It is used in schools, behavior plans, and therapy. Application points score best when they are explicitly tied to specific learning principles.
+
+---
+
+**[Visual: Evaluation scale with strengths and limitations]**
+
+**Narrator:**
+Evaluation should be balanced: strong scientific methods and useful applications, but also criticism for reductionism and limited real-world complexity.
+
+---
+
+**[Visual: Final checklist card]**
+
+**Narrator:**
+Practice one full paragraph that defines concepts, gives evidence, and evaluates clearly. Next: cognitive approach.
+
+**[Visual: End card]**

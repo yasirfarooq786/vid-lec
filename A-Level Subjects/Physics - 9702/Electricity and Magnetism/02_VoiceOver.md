@@ -1,28 +1,50 @@
-# Voice-Over Script: Electricity and Magnetism (Physics - 9702)
+# Voice-Over Script: Electricity and Magnetism (Cambridge International AS & A Level Physics 9702)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Physics - 9702: Electricity and Magnetism. Welcome to Class!"]**
+**[Visual: Simple circuit — I arrow, V across resistor]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Physics - 9702 syllabus: **Electricity and Magnetism**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+**Current** is **charge per second**. **Potential difference** is **energy per coulomb** **across** a **component**. **Ohm’s law** ties **V**, **I**, and **R** for **many** **conductors** at **constant** **temperature**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Electricity and Magnetism.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Electricity and Magnetism, our foundation involves mastering the initial variables and definitions."
+**[Visual: Junction with currents labelled; one loop with E and IR drops]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**Kirchhoff** **splits** **problems** cleanly: **charge** **doesn’t** **pile** **up** at a **junction**, and **round** a **loop** **gains** **balance** **drops**. **Label** **unknown** **currents** **once**, then **solve** **simultaneous** **equations** if **needed**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Electricity and Magnetism, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Battery with internal resistance r — terminal V < E]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Real** **sources** have **internal** **resistance**. **Terminal** **voltage** **drops** when **current** **increases** because **some** **PD** sits **across** **r**. That’s **why** **batteries** **“sag”** **under** **load**.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Electricity and Magnetism. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Capacitor charging curve approaching asymptote; τ = RC marked]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Capacitors** **store** **energy** in **fields**, **not** **by** **running** **steady** **current** **forever**. **Charging** and **discharging** follow **exponential** **curves**; **RC** sets the **time** **scale**.
+
+---
+
+**[Visual: Electron curved path in uniform B field]**
+
+**Narrator:**  
+**Magnetic** **fields** **deflect** **moving** **charges** **perpendicular** to **velocity**—**circular** **motion** when **B** is **uniform** and **v** starts **perpendicular**. Use **Fleming’s** **left-hand** rule for **conventional** **current** **direction**.
+
+---
+
+**[Visual: Coil entering field — induced I opposes motion]**
+
+**Narrator:**  
+**Changing** **flux** **induces** **EMF**. **Lenz** picks the **direction** that **fights** the **change**—**no** **free** **energy**, **just** **Faraday** **plus** **conservation**.
+
+---
+
+**[Visual: Checklist — Kirchhoff, EMF/r, capacitor, induction]**
+
+**Narrator:**  
+Draw **large** **clear** **circuit** **diagrams** and **state** **assumptions**—**ideal** **wires**, **steady** **states**, **uniform** **fields**—when **you** **use** **them**. Next: **thermal physics**.
+
+**[Visual: End card]**

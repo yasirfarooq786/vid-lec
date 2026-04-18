@@ -1,26 +1,81 @@
-# Complete Lecture: Social Inequality (Sociology - 9699)
+# Complete Lecture: Social Inequality (Cambridge International AS & A Level Sociology 9699)
 
-Welcome to today's essential lecture on **Social Inequality**. 
-This module forms a critical component of the Cambridge Sociology - 9699 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **stratification**, **class**, **gender**, **ethnicity**, **age**, **global inequality**, and **theories of power** for **9699**. Programme: [Cambridge 9699](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-sociology-9699/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Social Inequality, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Sociology - 9699.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Social Inequality, we apply specific theoretical frameworks established in the Sociology - 9699 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. What is social stratification?
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Social Inequality in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+**Stratification** is the hierarchical arrangement of people by valued resources (wealth, power, prestige). It is often **structured** across generations (**social mobility**—intergenerational and intragenerational).
 
-## Summary & Next Steps
-You have now covered the essentials of Social Inequality. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+Key terms:
+- **Life chances:** realistic opportunities (health, education, security).
+- **Poverty:** absolute vs relative definitions (exam relevance depends on question focus).
+- **Social exclusion:** economic, political, and cultural dimensions.
 
-**Class Dismissed!**
+---
+
+## 2. Class and capitalism
+
+**Marxism:** two-class model (bourgeoisie/proletariat) as an analytical tool; **surplus value**, **exploitation**, **ideology**.
+
+**Weberian / neo-Weberian ideas:** class, status, and party/power; **life chances** without reducing everything to economics alone.
+
+**Functionalism:** **differentiation** and role allocation—**critiqued** for underestimating conflict and ignoring inherited advantage.
+
+---
+
+## 3. Gender and patriarchy
+
+- **Patriarchy** as systematic male dominance (institutional and cultural).
+- Paid vs unpaid work, violence, political representation, intersection with class and ethnicity.
+- **Liberal / radical / Marxist feminist** contrasts (use names carefully and avoid flattening).
+
+---
+
+## 4. Ethnicity, racism, and inequality
+
+- **Individual prejudice** vs **institutional** discrimination.
+- **Stereotyping** and **labelling** in education, policing, employment.
+- Migration, colonial legacies, and global labour—link **structure** not only “culture.”
+
+---
+
+## 5. Age and global inequality
+
+- **Age stratification:** dependency ratios, pensions, ageism, youth unemployment.
+- **Global North/South** patterns; **development** debates; **aid, trade, debt** (as appropriate to question).
+
+---
+
+## 6. Essay strategy
+
+1. **Define** the dimension of inequality (class/gender/ethnicity/global).
+2. **Theorise** with named perspectives.
+3. **Evidence**—trends, comparisons (evaluate reliability).
+4. **Evaluate**—alternative theory + policy limitation + scope conditions.
+
+---
+
+## Common misconceptions
+
+- **Meritocracy** is an **ideal**—test whether outcomes match claims.
+- Inequality is **multi-dimensional**; people experience **intersection** effects.
+- Describing a group as “deprived” without **structural** analysis risks **blaming victims**.
+
+---
+
+## Revision checklist
+
+- [ ] Define stratification, life chances, and mobility types.
+- [ ] Compare Marxist vs Weberian class analysis briefly but accurately.
+- [ ] Explain one example of institutional discrimination and evaluate.
+- [ ] Practise a global inequality paragraph with causes *and* critiques of measurement.
+
+**Next:** Crime, Deviance and Social Control.
+
+---
+
+### Reference
+
+- [Cambridge 9699](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-sociology-9699/)

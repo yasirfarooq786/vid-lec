@@ -1,28 +1,43 @@
-# Voice-Over Script: Algorithm Design (Computer Science - 2210)
+# Voice-Over Script: Algorithm Design (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Algorithm Design. Welcome to Class!"]**
+**[Visual: Flowchart on screen — start, process, decision diamond, end]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Algorithm Design**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+An algorithm is just careful logic written down. In exams you express it as **pseudocode** or a **flowchart**, and you prove it works with a **trace table**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Algorithm Design.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Algorithm Design, our foundation involves mastering the initial variables and definitions."
+**[Visual: Pseudocode snippet — INPUT, WHILE, OUTPUT]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Stick to the **keywords** your syllabus uses. Selection chooses paths; iteration repeats work until a condition is met. Watch boundaries—**off-by-one** bugs love exam questions.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Algorithm Design, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Trace table — columns for line number, variables, output]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Tracing is slow but reliable. Step through each line, update variables exactly, and check the final output matches the question.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Algorithm Design. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Big problem split into three procedure boxes]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Decomposition** breaks problems into procedures. **Abstraction** hides detail so the main algorithm stays readable.
+
+---
+
+**[Visual: Form with “age 200” rejected — validation tick]**
+
+**Narrator:**  
+**Validation** stops bad data early. **Verification** checks copying accuracy. Do not swap these definitions in short-answer papers.
+
+---
+
+**[Visual: Checklist — sequence, selection, iteration, trace]**
+
+**Narrator:**  
+Revise structures, then practise timed trace questions. Next: **Programming Concepts**.
+
+**[Visual: End card]**

@@ -1,26 +1,103 @@
-# Complete Lecture: Past Papers (Psychology - 9990)
+# Complete Lecture: Past Papers and Examination Technique (Cambridge International AS & A Level Psychology 9990)
 
-Welcome to today's essential lecture on **Past Papers**. 
-This module forms a critical component of the Cambridge Psychology - 9990 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This is an exam-skills module: how to convert psychology knowledge into marks under timed conditions. For qualification context see [Cambridge 9990](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-psychology-9990/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Past Papers, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Psychology - 9990.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Past Papers, we apply specific theoretical frameworks established in the Psychology - 9990 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Why past papers matter
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Past Papers in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- They train command-word accuracy.
+- They reveal recurring mark-scheme patterns.
+- They build timing discipline and exam stamina.
 
-## Summary & Next Steps
-You have now covered the essentials of Past Papers. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+Past papers are most useful when combined with active correction, not passive reading.
 
-**Class Dismissed!**
+---
+
+## 2. Command words in 9990
+
+Students should respond differently to:
+- **Define**: concise, precise terminology.
+- **Describe**: clear features of a theory/study.
+- **Explain**: mechanism and reason.
+- **Evaluate**: strengths, limitations, and justified judgement.
+- **Compare**: explicit similarities and differences.
+
+Misreading command words is one of the biggest avoidable mark losses.
+
+---
+
+## 3. Structure for short and long answers
+
+**Short answers:**
+1. Direct response to the command word.
+2. Correct technical term.
+3. Brief linked example if needed.
+
+**Extended answers:**
+- Intro sentence answering the question.
+- Paragraphs with point -> evidence -> analysis.
+- Evaluation integrated, not dumped at the end.
+- Final judgement linked to the question focus.
+
+---
+
+## 4. Using studies effectively
+
+High-level responses:
+- Name study or evidence accurately.
+- Use key findings, not irrelevant procedural detail.
+- Link findings directly to the question stem.
+
+Avoid writing a full "study story" when only one finding is needed.
+
+---
+
+## 5. AO1 and AO3 balance
+
+- **AO1**: knowledge and understanding.
+- **AO3**: analysis/evaluation/application.
+
+Many scripts lose marks by writing strong AO1 but weak AO3. In timed essays, plan one evaluative point for every descriptive point.
+
+---
+
+## 6. Error log method
+
+After each paper:
+1. Mark with official scheme.
+2. Record errors by type (definition, application, evaluation, timing).
+3. Rewrite two weakest answers from memory within 24 hours.
+
+This process improves retention more than doing many papers without review.
+
+---
+
+## 7. Suggested revision cycle
+
+| Day | Focus |
+|-----|-------|
+| Mon | One timed section |
+| Tue | Mark scheme and corrections |
+| Wed | Targeted notes for weak topic |
+| Thu | One essay plan + one written essay |
+| Fri | Flashcards of key terms/studies |
+| Sat | Mixed mini-questions |
+| Sun | Rest or light review |
+
+Adjust to your exam date and workload.
+
+---
+
+## Revision checklist
+
+- [ ] Command words recognized instantly.
+- [ ] One essay paragraph template memorized.
+- [ ] Error log updated weekly.
+- [ ] At least one full timed paper completed regularly.
+
+---
+
+### Reference
+
+- [Cambridge 9990](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-psychology-9990/)

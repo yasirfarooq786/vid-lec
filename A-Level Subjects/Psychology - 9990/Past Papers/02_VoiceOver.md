@@ -1,28 +1,50 @@
-# Voice-Over Script: Past Papers (Psychology - 9990)
+# Voice-Over Script: Past Papers and Examination Technique (Cambridge International AS & A Level Psychology 9990)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Psychology - 9990: Past Papers. Welcome to Class!"]**
-
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Psychology - 9990 syllabus: **Past Papers**. Understanding these core principles is absolutely essential for mastering the curriculum."
-
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Past Papers.]**
+**[Visual: Desk setup with timer, paper, and mark scheme side by side]**
 
 **Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Past Papers, our foundation involves mastering the initial variables and definitions."
+Past papers are where revision becomes performance. The goal is not just knowing psychology, but showing it in mark-scheme language under time pressure.
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+---
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Past Papers, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
-
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Command words highlighted: define, explain, evaluate, compare]**
 
 **Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+Read the command word first. If the question says evaluate, description alone will cap your score, no matter how accurate it is.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
+
+**[Visual: Essay paragraph template appears: point -> evidence -> analysis -> link]**
 
 **Narrator:**
-"And there you have it: the key essentials of Past Papers. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+Use a repeatable paragraph structure. Make a claim, support it with evidence, evaluate it, then tie it back to the question.
 
-**[Visual: Fade to black. End screen.]**
+---
+
+**[Visual: Mark scheme with keywords highlighted in yellow]**
+
+**Narrator:**
+After every timed attempt, mark your work with the official scheme. Track lost marks by pattern, not by topic name.
+
+---
+
+**[Visual: Error log sheet with categories and weekly totals]**
+
+**Narrator:**
+An error log is essential. If you keep missing application marks, train scenario linking. If evaluation is weak, practice conceptual criticism.
+
+---
+
+**[Visual: Weekly study cycle calendar]**
+
+**Narrator:**
+Quality correction beats quantity of papers. Fewer papers with deep review improves grades faster than endless unanswered drills.
+
+---
+
+**[Visual: Final checklist card]**
+
+**Narrator:**
+Final target: accurate command-word response, balanced AO1 and AO3, and clean timing. That is exam-ready psychology.
+
+**[Visual: End card]**

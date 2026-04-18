@@ -1,28 +1,43 @@
-# Voice-Over Script: Boolean Logic (Computer Science - 2210)
+# Voice-Over Script: Boolean Logic (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Boolean Logic. Welcome to Class!"]**
+**[Visual: True/False toggles — title Boolean Logic]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Boolean Logic**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Boolean logic is digital reasoning: only **zero** and **one**, combined with **AND**, **OR**, and **NOT**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Boolean Logic.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Boolean Logic, our foundation involves mastering the initial variables and definitions."
+**[Visual: Truth table filling in row by row]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Truth tables are mechanical but powerful. List every input pattern, evaluate step by step, and the final column is your circuit output.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Boolean Logic, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: AND and OR gate symbols feeding a lamp]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Gates are just physical or simulated **Boolean operators**. Trace signals left to right—watch **NOT** bubbles carefully.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Boolean Logic. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: De Morgan swap — AND becomes OR with inverted inputs]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**De Morgan** rules rewrite expressions without guessing. They also explain how **NAND** and **NOR** gates can build anything.
+
+---
+
+**[Visual: Pseudocode line — IF (x > 5) AND (y = 3)]**
+
+**Narrator:**  
+Programs use the same logic. If you can simplify a condition safely, code becomes shorter and easier to test.
+
+---
+
+**[Visual: Checklist — truth table, gates, laws, code link]**
+
+**Narrator:**  
+Drill four-row tables until they are automatic, then tackle three-variable circuits. Next: **Databases**.
+
+**[Visual: End card]**

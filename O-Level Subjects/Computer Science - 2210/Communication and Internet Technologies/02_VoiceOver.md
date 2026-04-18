@@ -1,28 +1,43 @@
-# Voice-Over Script: Communication and Internet Technologies (Computer Science - 2210)
+# Voice-Over Script: Communication and Internet Technologies (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Communication and Internet Technologies. Welcome to Class!"]**
+**[Visual: LAN room vs world map WAN — labels]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Communication and Internet Technologies**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Networks connect devices. **LANs** cover a site; **WANs** span cities and countries. Know typical uses and hardware roles.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Communication and Internet Technologies.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Communication and Internet Technologies, our foundation involves mastering the initial variables and definitions."
+**[Visual: Star topology — central switch, nodes around]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Topologies change reliability and cost. A **star** often isolates faults to one link—draw it cleanly and name one advantage.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Communication and Internet Technologies, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Fibre optic cable glowing — “high bandwidth” caption]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Media choice matters: copper is common and cheap; **fibre** carries light for long distances with huge capacity.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Communication and Internet Technologies. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Browser bar — URL, DNS lookup arrow, server response]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+The **web** rides on the **internet**. **DNS** turns readable names into numeric addresses so routers can forward **packets**.
+
+---
+
+**[Visual: Envelope icons — SMTP send, POP/IMAP receive sketch]**
+
+**Narrator:**  
+Email is client–server too—send, store, retrieve—learn the outline your syllabus expects.
+
+---
+
+**[Visual: Checklist — topology, protocols, client-server, security link]**
+
+**Narrator:**  
+Revise definitions, then practise explaining “what happens when you load a webpage.” Next: **Boolean Logic**.
+
+**[Visual: End card]**

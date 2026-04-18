@@ -1,26 +1,81 @@
-# Complete Lecture: Algorithm Design (Computer Science - 2210)
+# Complete Lecture: Algorithm Design (Cambridge International O Level Computer Science 2210)
 
-Welcome to today's essential lecture on **Algorithm Design**. 
-This module forms a critical component of the Cambridge Computer Science - 2210 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+**Algorithms** are step-by-step procedures to solve problems. This topic underpins programming and paper-style questions on **pseudocode**, **flowcharts**, and **logic**. Programme: [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Algorithm Design, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Computer Science - 2210.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Algorithm Design, we apply specific theoretical frameworks established in the Computer Science - 2210 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. What is an algorithm?
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Algorithm Design in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- A **finite** sequence of clear instructions that produces an output for given input.
+- Properties you should recognise: **correctness** (solves the problem), **efficiency** (reasonable time/space for the task), **clarity** (readable by humans).
 
-## Summary & Next Steps
-You have now covered the essentials of Algorithm Design. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Representing algorithms
+
+**Pseudocode:** language-neutral steps using keywords such as **INPUT**, **OUTPUT**, **IF…THEN…ELSE**, **WHILE**, **FOR**, **REPEAT…UNTIL**, **PROCEDURE** / **FUNCTION** (match your **syllabus** and **specimen** **paper** notation).
+
+**Flowcharts:** symbols for **start/end**, **process**, **decision** (diamond), **input/output**, **connector**. Arrows show **control flow** (one entry, clear exits from decisions).
+
+**Trace tables:** track **variables** line-by-line for given test data—essential for debugging and exam “dry run” questions.
+
+---
+
+## 3. Basic building blocks
+
+- **Sequence** — instructions in order.
+- **Selection** — **IF** conditions; nested conditions when needed.
+- **Iteration** — **count-controlled** (FOR) and **condition-controlled** (WHILE / REPEAT).
+
+Know when a loop might **never run**, **run forever**, or **run once too many** (off-by-one errors).
+
+---
+
+## 4. Decomposition and abstraction
+
+- **Decomposition:** break a large problem into smaller sub-problems (modules, procedures).
+- **Abstraction:** hide detail behind a name (e.g. `CalculateTotal` hides the steps inside).
+
+These support **reuse** and **easier testing**.
+
+---
+
+## 5. Validation and verification (exam vocabulary)
+
+- **Validation** — checks whether input is **sensible** or **allowed** before use (range, type, length).
+- **Verification** — checks that data **copied** or **entered** matches the source (e.g. double entry, checksum ideas at O Level depth).
+
+Use these terms **precisely** in scenario answers.
+
+---
+
+## 6. Common exam tasks
+
+- Complete or correct **pseudocode** / **flowchart** fragments.
+- Produce a **trace table** for given inputs.
+- Explain **why** a change fixes a logic error.
+
+---
+
+## Common misconceptions
+
+- Pseudocode is **not** a single global standard—follow **your** **course** **notation**.
+- A **flowchart** decision diamond must show **all** **outcomes** (e.g. Yes/No) clearly.
+- “More loops” does not mean **better**; infinite loops are a design failure.
+
+---
+
+## Revision checklist
+
+- [ ] Read and write pseudocode using syllabus keywords.
+- [ ] Draw decision and loop structures from a written problem.
+- [ ] Complete trace tables without arithmetic slips.
+- [ ] Use validation vs verification correctly in short answers.
+
+**Next:** Programming Concepts.
+
+---
+
+### Reference
+
+- [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/)

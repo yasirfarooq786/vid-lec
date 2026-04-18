@@ -1,26 +1,98 @@
-# Complete Lecture: Social Approach (Psychology - 9990)
+# Complete Lecture: Social Approach (Cambridge International AS & A Level Psychology 9990)
 
-Welcome to today's essential lecture on **Social Approach**. 
-This module forms a critical component of the Cambridge Psychology - 9990 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+The social approach explains behavior through interaction with others, group processes, social norms, and cultural context. For qualification context see [Cambridge 9990](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-psychology-9990/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Social Approach, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Psychology - 9990.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Social Approach, we apply specific theoretical frameworks established in the Psychology - 9990 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Core assumptions
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Social Approach in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- Human behavior is shaped by real or imagined social presence.
+- Group membership influences identity, attitudes, and behavior.
+- Social norms and roles guide behavior in specific contexts.
 
-## Summary & Next Steps
-You have now covered the essentials of Social Approach. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Key concepts
+
+**Social influence** includes:
+- **Conformity**: matching group behavior or beliefs.
+- **Compliance**: outward agreement without private acceptance.
+- **Obedience**: following instructions from authority.
+
+Exams often require clear differentiation between these terms.
+
+---
+
+## 3. Group behavior
+
+Important areas:
+- Group norms and role expectations.
+- Majority and minority influence.
+- Group polarization and groupthink.
+- Social facilitation and social loafing.
+
+Good responses use one concept and apply it to a specific context rather than listing many terms.
+
+---
+
+## 4. Attribution and social cognition
+
+How people explain behavior:
+- **Internal attribution**: due to personality/disposition.
+- **External attribution**: due to situation/context.
+
+Common biases:
+- Fundamental attribution error.
+- Self-serving bias.
+
+These ideas can be linked to conflict, prejudice, and misunderstanding in social settings.
+
+---
+
+## 5. Attitudes, prejudice, and stereotypes
+
+- Attitudes have cognitive, affective, and behavioral components.
+- Stereotypes are overgeneralized beliefs about groups.
+- Prejudice and discrimination can be explained through social learning, in-group/out-group processes, and social identity.
+
+Applications include anti-prejudice interventions and perspective-taking programs.
+
+---
+
+## 6. Evaluation and critical thinking
+
+**Strengths:**
+- Explains everyday social behavior.
+- Strong practical relevance (education, workplaces, campaigns).
+
+**Limitations:**
+- Some classic studies used artificial settings.
+- Cultural differences challenge universal claims.
+- Ethical concerns in high-deception studies.
+
+In evaluation, combine methodological points (validity, reliability, ethics) with conceptual depth.
+
+---
+
+## Common misconceptions
+
+- Conformity does not always mean weakness; it can be informational.
+- Obedience effects are probabilistic, not inevitable.
+- Prejudice can be reduced, but interventions need sustained support.
+
+---
+
+## Revision checklist
+
+- [ ] Distinguish conformity, compliance, and obedience accurately.
+- [ ] Explain one attribution bias with an example.
+- [ ] Evaluate one social influence study with developed points.
+- [ ] Practice applying social concepts to unseen scenarios.
+
+**Next:** Past Papers and exam technique.
+
+---
+
+### Reference
+
+- [Cambridge 9990](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-psychology-9990/)

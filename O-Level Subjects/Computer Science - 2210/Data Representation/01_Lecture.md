@@ -1,26 +1,79 @@
-# Complete Lecture: Data Representation (Computer Science - 2210)
+# Complete Lecture: Data Representation (Cambridge International O Level Computer Science 2210)
 
-Welcome to today's essential lecture on **Data Representation**. 
-This module forms a critical component of the Cambridge Computer Science - 2210 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+Computers store **binary** digits (**bits**: 0 and 1). This topic covers **number bases**, **text**, **images**, **sound**, and **compression** ideas at **O Level** depth. Programme: [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Data Representation, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Computer Science - 2210.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Data Representation, we apply specific theoretical frameworks established in the Computer Science - 2210 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Number systems
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Data Representation in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+- **Binary (base 2):** place values … 8, 4, 2, 1.
+- **Denary (base 10):** everyday integers.
+- **Hexadecimal (base 16):** groups binary neatly; digits 0–9 and A–F.
 
-## Summary & Next Steps
-You have now covered the essentials of Data Representation. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+**Conversions:** binary ↔ denary; binary ↔ hex (often **4 bits** per hex digit).
 
-**Class Dismissed!**
+Understand **overflow** when a fixed number of bits cannot hold a value.
+
+---
+
+## 2. Binary arithmetic (if examined)
+
+- **Addition** of binary integers with **carry**; awareness of **limits** of fixed-width storage.
+
+---
+
+## 3. Character and text
+
+- **Character set** maps characters to codes (e.g. **ASCII** ideas—limited range; **Unicode** extends for world scripts).
+- **Strings** as sequences of characters in memory.
+
+---
+
+## 4. Images
+
+- **Bitmap:** image as a **grid** of **pixels**; each pixel stores **colour** using a number of **bits** (**colour depth**).
+- **Resolution** (width × height) affects **file size** and clarity.
+- **Metadata** may store dimensions and format details.
+
+Vector ideas may appear briefly (objects vs pixels)—use syllabus terms.
+
+---
+
+## 5. Sound
+
+- **Sampling:** measure **amplitude** at intervals (**sample rate**).
+- **Sample resolution** (bits per sample) affects **quality** and **file size**.
+
+Trade-off: higher rate/resolution → better fidelity, larger files.
+
+---
+
+## 6. Compression
+
+- **Lossless:** fully reversible (e.g. run-length ideas, dictionary methods—conceptual).
+- **Lossy:** discards detail (common in images/audio); cannot fully recover original.
+
+---
+
+## Common misconceptions
+
+- More bits per pixel always means **larger** files (all else equal)—state assumptions.
+- **Hex** is not “more accurate” than binary—it is a **human-friendly** view of binary groupings.
+- **Unicode** does not mean “all characters are one byte.”
+
+---
+
+## Revision checklist
+
+- [ ] Convert binary ↔ denary ↔ hex for typical exam sizes.
+- [ ] Calculate approximate bitmap size from resolution × colour depth.
+- [ ] Explain sampling rate and resolution for sound.
+- [ ] Distinguish lossy vs lossless with one application each.
+
+**Next:** Hardware and Software.
+
+---
+
+### Reference
+
+- [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/)

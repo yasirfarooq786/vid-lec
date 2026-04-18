@@ -1,28 +1,43 @@
-# Voice-Over Script: Security and Ethics (Computer Science - 2210)
+# Voice-Over Script: Security and Ethics (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Security and Ethics. Welcome to Class!"]**
+**[Visual: Shield over laptop — title Security and Ethics]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Security and Ethics**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Security is not one tool—it is **layers**: people, processes, and technology working together.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Security and Ethics.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Security and Ethics, our foundation involves mastering the initial variables and definitions."
+**[Visual: Phishing email hook vs password manager]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Threats include malware and trickery. Defences include education, strong authentication, and least privilege—only the access you truly need.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Security and Ethics, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Padlock on browser bar — HTTPS]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Encryption** protects data on the move. Pair it with verified sites and healthy suspicion of odd links.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Security and Ethics. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Backup disk and cloud arrow — 3-2-1 sketch]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Backups** beat ransomware when tested. If you never restore a backup, you do not know it works.
+
+---
+
+**[Visual: Balance scales — privacy vs security]**
+
+**Narrator:**  
+Ethics asks who benefits, who is harmed, and who decides. Privacy, consent, and intellectual property show up constantly in modern scenarios.
+
+---
+
+**[Visual: Checklist — threat, defence, ethics, backup]**
+
+**Narrator:**  
+Practise scenario answers: identify the risk, pick sensible controls, mention one ethical angle. Next: **Past Papers**.
+
+**[Visual: End card]**

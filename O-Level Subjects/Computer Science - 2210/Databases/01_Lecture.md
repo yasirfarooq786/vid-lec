@@ -1,26 +1,84 @@
-# Complete Lecture: Databases (Computer Science - 2210)
+# Complete Lecture: Databases (Cambridge International O Level Computer Science 2210)
 
-Welcome to today's essential lecture on **Databases**. 
-This module forms a critical component of the Cambridge Computer Science - 2210 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **relational databases**, **tables**, **keys**, **relationships**, **normalisation ideas**, and **SQL-style** queries at **O Level**. Programme: [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Databases, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Computer Science - 2210.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Databases, we apply specific theoretical frameworks established in the Computer Science - 2210 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Why databases?
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Databases in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+Compared to flat files, DBMS provides:
+- **Structured** storage with **integrity** rules.
+- **Concurrent** access controls (conceptual).
+- **Query** languages for flexible retrieval.
 
-## Summary & Next Steps
-You have now covered the essentials of Databases. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Tables, fields, records
+
+- **Table** (relation) = entity type (e.g. Student, Book).
+- **Field** (attribute/column) = property (e.g. StudentID, Surname).
+- **Record** (row/tuple) = one instance.
+
+---
+
+## 3. Keys
+
+- **Primary key:** uniquely identifies each record (must be unique, non-null—per syllabus rules).
+- **Foreign key:** field referencing a primary key in another table—enforces **referential integrity** between related tables.
+
+---
+
+## 4. Relationships
+
+- **One-to-many** (common): one parent, many children (e.g. one Customer, many Orders).
+- **Many-to-many** often implemented via a **link** table (two foreign keys).
+
+---
+
+## 5. Data validation in databases
+
+- **Data types**, **length**, **range checks**, **required fields**, **lookup** tables.
+- **Validation** reduces garbage entering the system (link to Algorithm topic vocabulary).
+
+---
+
+## 6. SQL (typical O Level commands)
+
+Be able to read/write simple statements (syntax per specimen papers):
+- **SELECT** … **FROM** … **WHERE**
+- **INSERT INTO** … **VALUES**
+- **UPDATE** … **SET** … **WHERE**
+- **DELETE FROM** … **WHERE**
+
+Understand **WHERE** filters rows; avoid **DELETE/UPDATE** without conditions unless intended.
+
+---
+
+## 7. Normalisation (introductory)
+
+Goals: reduce **redundancy** and **update anomalies** by splitting tables sensibly. At O Level, explain **why** duplication is risky even if full formal proofs are not required.
+
+---
+
+## Common misconceptions
+
+- **Primary key** is not “any unique field”—it is the **chosen** identifier for the table.
+- **Foreign key** values must exist in the referenced table (integrity).
+- SQL **SELECT** does not change data; **INSERT/UPDATE/DELETE** do.
+
+---
+
+## Revision checklist
+
+- [ ] Draw a two-table relationship with PK/FK labelled.
+- [ ] Write SELECT queries with WHERE for scenarios.
+- [ ] Explain one insert/update that could break referential integrity.
+- [ ] Give one reason to split repeated data into separate tables.
+
+**Next:** Security and Ethics.
+
+---
+
+### Reference
+
+- [Cambridge 2210](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-o-level-computer-science-2210/)

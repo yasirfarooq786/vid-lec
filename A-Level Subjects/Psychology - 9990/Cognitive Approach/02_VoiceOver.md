@@ -1,28 +1,50 @@
-# Voice-Over Script: Cognitive Approach (Psychology - 9990)
+# Voice-Over Script: Cognitive Approach (Cambridge International AS & A Level Psychology 9990)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Psychology - 9990: Cognitive Approach. Welcome to Class!"]**
-
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Psychology - 9990 syllabus: **Cognitive Approach**. Understanding these core principles is absolutely essential for mastering the curriculum."
-
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Cognitive Approach.]**
+**[Visual: Animation of information flow "Input -> Processing -> Memory -> Response"]**
 
 **Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Cognitive Approach, our foundation involves mastering the initial variables and definitions."
+The cognitive approach treats the mind like an information processor, asking how we attend, encode, store, and retrieve information.
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+---
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Cognitive Approach, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
-
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Memory model blocks: sensory, short-term, long-term]**
 
 **Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+When memory questions appear, map information through systems. Precision matters: define the process, then apply it to the scenario.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
+
+**[Visual: Eyewitness scene replayed with altered context labels]**
 
 **Narrator:**
-"And there you have it: the key essentials of Cognitive Approach. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+Schemas make thinking efficient, but they can also distort recall. This is why confident memory can still be inaccurate.
 
-**[Visual: Fade to black. End screen.]**
+---
+
+**[Visual: Bias wheel: confirmation, availability, framing]**
+
+**Narrator:**
+Decision-making is not purely logical. Cognitive biases affect judgments in exams, health choices, and social behavior. Link these examples directly to named concepts.
+
+---
+
+**[Visual: Lab task setup with reaction-time graph]**
+
+**Narrator:**
+A major strength of cognitive psychology is measurement. Reaction times and recall scores are objective. But remember: mental processes are inferred, not directly observed.
+
+---
+
+**[Visual: Essay structure template on screen]**
+
+**Narrator:**
+For high marks, follow this rhythm: define, evidence, evaluate, apply. Keep each paragraph focused on the command word.
+
+---
+
+**[Visual: Final revision checklist card]**
+
+**Narrator:**
+Revise memory models, schema effects, and two strong evaluation points. Next: social approach.
+
+**[Visual: End card]**

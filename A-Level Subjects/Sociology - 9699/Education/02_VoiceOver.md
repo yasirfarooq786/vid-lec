@@ -1,28 +1,43 @@
-# Voice-Over Script: Education (Sociology - 9699)
+# Voice-Over Script: Education (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Education. Welcome to Class!"]**
+**[Visual: School building — title Education]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Education**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Education is one of society’s biggest sorting machines. Sociology asks whether schools mainly **integrate** and **advance** people—or **reproduce** unfair advantage.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Education.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Education, our foundation involves mastering the initial variables and definitions."
+**[Visual: Split screen — merit ladder vs “hidden curriculum” stamp]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Functionalist stories highlight shared values and skills. Marxist stories stress hidden messages: obey authority, accept hierarchy, see success as **fair** when it might be **structured**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Education, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Teacher marking — label “ability” sticking to student file]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Interactionists zoom in: labels like “bright” or “difficult” shape teacher reactions and pupil identity. Trace the **steps**—that is how you earn application marks.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Education. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Home study corner vs crowded flat — subtle, respectful imagery]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Achievement links to class, gender, and ethnicity through many routes—money, health, expectations, discrimination. Avoid blaming individuals; explain **social** processes.
+
+---
+
+**[Visual: Debate podium — policy and marketisation keywords]**
+
+**Narrator:**  
+Policy changes who competes for what. If your syllabus includes marketisation, link it clearly to inequality debates and evaluate with evidence.
+
+---
+
+**[Visual: Checklist — theory, mechanism, evidence, evaluate]**
+
+**Narrator:**  
+Revise definitions, then practise one chain explanation and one comparison essay. Next: **Social Inequality**.
+
+**[Visual: End card]**

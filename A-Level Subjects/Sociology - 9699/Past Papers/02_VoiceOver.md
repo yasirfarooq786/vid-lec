@@ -1,28 +1,43 @@
-# Voice-Over Script: Past Papers (Sociology - 9699)
+# Voice-Over Script: Past Papers and Examination Technique (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Past Papers. Welcome to Class!"]**
+**[Visual: Exam hall clock — title Past Papers]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Past Papers**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Sociology exams reward **clear argument**, not everything you know. Past papers train you to answer the **question on the page**, not the question you wish had been asked.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Past Papers.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Past Papers, our foundation involves mastering the initial variables and definitions."
+**[Visual: Command words flashcards — define, explain, assess]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+If it says **assess** or **evaluate**, you need balance: strong points on both sides, then a judgement that matches the wording—especially **to what extent**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Past Papers, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Essay skeleton — intro, two perspectives, evaluation, conclusion]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Use a repeatable skeleton. One paragraph per coherent point. Name a theory early, support it, then challenge it—method limits, alternative perspective, or counter-evidence.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Past Papers. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Highlighter on mark scheme keywords]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+After you write, compare to mark schemes or examiner reports. Look for missing **evaluation**, missing **definitions**, or **waffle** that never answers the prompt.
+
+---
+
+**[Visual: Timer — plan 5 minutes, write, leave 2 for conclusion]**
+
+**Narrator:**  
+Plan briefly for long questions. A strong plan prevents rambling and protects your conclusion—where many marks sit.
+
+---
+
+**[Visual: Checklist — command word, theory, evidence, evaluate, judgement]**
+
+**Narrator:**  
+Revise in cycles: timed paper, diagnose errors, rewrite weak paragraphs. That loop raises grades faster than rereading notes alone.
+
+**[Visual: End card]**

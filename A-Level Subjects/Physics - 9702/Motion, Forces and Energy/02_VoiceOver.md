@@ -1,28 +1,43 @@
-# Voice-Over Script: Motion, Forces and Energy (Physics - 9702)
+# Voice-Over Script: Motion, Forces and Energy (Cambridge International AS & A Level Physics 9702)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Physics - 9702: Motion, Forces and Energy. Welcome to Class!"]**
+**[Visual: SUVAT symbols u, v, a, t, s on motion diagram]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Physics - 9702 syllabus: **Motion, Forces and Energy**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+**Mechanics** starts with **kinematics**—describing **motion** with **graphs** and **constant acceleration** equations. Fix a **positive direction** once and **stick** to it so **signs** stay **consistent**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Motion, Forces and Energy.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Motion, Forces and Energy, our foundation involves mastering the initial variables and definitions."
+**[Visual: Projectile — horizontal constant v, vertical parabola with g]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**Projectiles** split into **horizontal** **uniform** speed and **vertical** **constant** **acceleration** **g**. **Time** links the **two** components—**same** flight **time** for **both**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Motion, Forces and Energy, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Free-body diagram — weight, normal, friction, applied F]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Newton’s second law** uses **resultant** **force** on a **single** body. **Draw** every **force** from **something** **touching** or **field**—then **F equals m a** along **each** **axis** you need.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Motion, Forces and Energy. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Roller coaster — KE and PE exchanging]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Work** transfers **energy**. **Kinetic** is **half m v squared**; **gravitational** **potential** is **m g h** near Earth. Without **dissipation**, **mechanical** **energy** **conserves**. **Power** is **work per time**, or **force times speed** when **aligned**.
+
+---
+
+**[Visual: Carts collide — momentum vectors before/after]**
+
+**Narrator:**  
+**Momentum** is **mass times velocity**—a **vector**. In an **isolated** **collision**, **total momentum** **before** equals **total** **after**. **Impulse** is **change** in **momentum**, the **area** under **force** versus **time**.
+
+---
+
+**[Visual: Checklist — SUVAT, Newton, energy, momentum]**
+
+**Narrator:**  
+Always **state** **units**, **show** **rearrangement**, and **sketch** when it **clarifies** the **physics**. Next: **waves**.
+
+**[Visual: End card]**

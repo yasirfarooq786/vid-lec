@@ -1,28 +1,43 @@
-# Voice-Over Script: Media (Sociology - 9699)
+# Voice-Over Script: Media (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Media. Welcome to Class!"]**
+**[Visual: Phones, papers, TV — title Media]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Media**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Media sociology is not just “watching shows.” It is about **power**: who owns platforms, who gets represented, and how audiences use content.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Media.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Media, our foundation involves mastering the initial variables and definitions."
+**[Visual: Few logos branching to many outlets — ownership diagram]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Ownership can concentrate influence. Marxist arguments stress ideology; pluralists stress competition. Your job is to **evaluate both** with evidence, not pick a team emotionally.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Media, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Film poster — stereotype labels peeling off]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Representation matters for identity and inequality. Look for who is centre-stage, who is absent, and what roles repeat across stories.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Media. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Lab experiment vs living room — “effects?”]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Media effects are messy. Methods differ; real life differs. Strong answers discuss **conditions** and **limitations**, not certainty.
+
+---
+
+**[Visual: Social feed algorithm — filter bubble sketch]**
+
+**Narrator:**  
+Digital media adds algorithms, participation, and surveillance. Link technology to social outcomes—politics, crime fears, youth culture—using sociological concepts.
+
+---
+
+**[Visual: Checklist — ownership, representation, audience, method]**
+
+**Narrator:**  
+Revise pluralism vs Marxism, then one representation analysis. Next: **Theory and Methods**.
+
+**[Visual: End card]**

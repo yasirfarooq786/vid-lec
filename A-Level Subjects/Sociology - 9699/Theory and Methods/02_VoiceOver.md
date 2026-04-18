@@ -1,28 +1,43 @@
-# Voice-Over Script: Theory and Methods (Sociology - 9699)
+# Voice-Over Script: Theory and Methods (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Theory and Methods. Welcome to Class!"]**
+**[Visual: Magnifying glass over society — title Theory and Methods]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Theory and Methods**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Theory tells you **what kind of society** you think you are studying. Methods are how you **check** that story with evidence—always imperfect, always debated.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Theory and Methods.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Theory and Methods, our foundation involves mastering the initial variables and definitions."
+**[Visual: Two paths — numbers highway vs interview conversation]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Positivist leanings favour measurement and patterns. Interpretivist leanings favour meaning and context. Good sociology often uses **both** cautiously—or explains why one fits the question.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Theory and Methods, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Toolbox — survey, interview, observation, documents]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Learn each method as a trade-off: surveys scale up but can flatten meaning. Interviews go deep but rarely represent everyone. Observation gives insight but raises ethics and access issues.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Theory and Methods. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Scales — validity vs reliability]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Examiners love evaluation vocabulary. **Validity** asks if you measured what you claimed. **Reliability** asks if another researcher could repeat the process fairly.
+
+---
+
+**[Visual: Ethics checklist — consent, harm, confidentiality]**
+
+**Narrator:**  
+Ethics is not optional detail. If your method risks harm or breaches trust, your findings lose credibility—say so explicitly.
+
+---
+
+**[Visual: Triangulation — three methods pointing to one conclusion]**
+
+**Narrator:**  
+Triangulation strengthens claims, but it costs time and money—and methods can still share the same blind spots. Next: **Past Papers**—how to turn this into marks.
+
+**[Visual: End card]**

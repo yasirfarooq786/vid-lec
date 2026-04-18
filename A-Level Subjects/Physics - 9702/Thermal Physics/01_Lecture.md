@@ -1,26 +1,86 @@
-# Complete Lecture: Thermal Physics (Physics - 9702)
+# Complete Lecture: Thermal Physics (Cambridge International AS & A Level Physics 9702)
 
-Welcome to today's essential lecture on **Thermal Physics**. 
-This module forms a critical component of the Cambridge Physics - 9702 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **temperature**, **thermal equilibrium**, **heat capacity**, **latent heat**, the **ideal gas**, and **molecular kinetic theory** for **9702**. Programme: [Cambridge 9702](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Thermal Physics, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Physics - 9702.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Thermal Physics, we apply specific theoretical frameworks established in the Physics - 9702 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Temperature and thermal energy
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Thermal Physics in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+**Temperature** **scales** (e.g. **Celsius**, **kelvin**): **T/K = T/°C + 273.15** (use **data** **precision** given).
 
-## Summary & Next Steps
-You have now covered the essentials of Thermal Physics. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+**Thermal equilibrium:** **no** **net** **energy** **transfer** between **bodies** in **thermal** **contact** — **same** **temperature**.
 
-**Class Dismissed!**
+**Internal energy:** **sum** of **random** **molecular** **kinetic** and **potential** **energies** (includes **vibration** in **solids**).
+
+---
+
+## 2. Heat, work, and specific heat capacity
+
+**Heat** **Q** **transferred** **by** **temperature** **difference** (not **“contained”**).
+
+**Specific heat capacity c:** **Q = mcΔT** (**per** **unit** **mass**).
+
+**Molar heat capacity** where **moles** used: **Q = nCΔT** (**check** **definitions** on **sheet**).
+
+**Thermal capacity** (object): **C th = Q/ΔT** (**J K⁻¹**).
+
+---
+
+## 3. Latent heat
+
+**Phase** **change** at **constant** **pressure** (often): **Q = mL** (**L** **specific** **latent** **fusion** or **vaporisation**).
+
+**Temperature** **constant** **during** **pure** **phase** **change** — **energy** **breaks** **or** **forms** **bonds** / **increases** **separation**.
+
+---
+
+## 4. Ideal gas equation
+
+**pV = nRT** (**n** **amount** **in** **mol**, **R** **molar** **gas** **constant** from **data**).
+
+**Alternative** **form** **pV = NkT** (**N** **molecules**, **k** **Boltzmann** **constant**) if **syllabus** **uses** it.
+
+**Assumptions** of **ideal** **model:** **point** **molecules**; **no** **intermolecular** **forces** except **collisions**; **elastic** **collisions**; **large** **number** of **molecules**.
+
+---
+
+## 5. Molecular kinetic theory
+
+**Mean** **translational** **KE** **per** **molecule** **linked** to **T** (**3/2 kT** for **monatomic** **ideal** **gas** in **3D** — **confirm** **formula** **book**).
+
+**Root-mean-square** **speed** **c_rms** from **pV = ⅓Nm<c²>** **or** **equivalent** **relations** (**syllabus** **version**).
+
+**Real** **gases** deviate at **high** **p** / **low** **T** — **molecular** **size** and **forces**.
+
+---
+
+## 6. First law of thermodynamics
+
+**ΔU = Q + W** (**sign** **convention** **careful**: **often** **W** **work** **done** **on** **system** **positive** — **match** **past** **papers** / **textbook**).
+
+**Isothermal** / **adiabatic** **sketches** on **p–V** **diagrams** (**qualitative** **A** **Level**).
+
+---
+
+## Common misconceptions
+
+- **Heat** **and** **temperature** **are not** the **same** **thing**.  
+- **Internal** **energy** **can** **change** **without** **temperature** **change** during **some** **processes** (e.g. **ideal** **free** **expansion** **nuances** — **stick** to **syllabus** **level**).  
+- **Specific** **heat** vs **latent** — **ΔT** **vs** **phase** **change**.
+
+---
+
+## Revision checklist
+
+- [ ] **Kelvin** **conversion**; **equilibrium**.  
+- [ ] **Q = mcΔT**; **Q = mL**.  
+- [ ] **pV = nRT**; **assumptions**; **graphs**.  
+- [ ] **Molecular** **speed** **interpretation**; **first** **law** **signs**.
+
+**Next:** **Nuclear Physics**.
+
+---
+
+### Reference
+
+- [Cambridge 9702](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/)

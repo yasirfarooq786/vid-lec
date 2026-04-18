@@ -1,28 +1,43 @@
-# Voice-Over Script: Nuclear Physics (Physics - 9702)
+# Voice-Over Script: Nuclear Physics (Cambridge International AS & A Level Physics 9702)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Physics - 9702: Nuclear Physics. Welcome to Class!"]**
+**[Visual: Nuclide notation A, Z on nucleus diagram]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Physics - 9702 syllabus: **Nuclear Physics**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+The **nucleus** packs **protons** and **neutrons**. **Isotopes** share **chemistry**—**same** **proton** **number**—but **different** **neutron** **count**, **so** **different** **stability** and **decay**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Nuclear Physics.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Nuclear Physics, our foundation involves mastering the initial variables and definitions."
+**[Visual: Alpha through paper, beta through aluminium, gamma through lead]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**Alpha** **helium** **nuclei**—**heavy**, **charged**, **strongly** **ionising**, **stopped** **easily**. **Beta** **fast** **electrons**—**moderate** **penetration**. **Gamma** **photons**—**weak** **ionisation** **per** **path** **length** but **needs** **dense** **shielding**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Nuclear Physics, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Exponential decay curve; half-life marked twice]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Decay** is **random** **per** **nucleus** but **smooth** **for** **billions** of **atoms**. **Half-life** is **the** **time** to **halve** **activity** or **remaining** **number**—**repeatable** **without** **“using** **up**” **the** **rule**.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Nuclear Physics. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Binding energy per nucleon curve — peak labelled]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Binding** **energy** **per** **nucleon** **peaks** **around** **medium** **mass** **nuclei**. **That** **curve** **explains** **why** **both** **fusion** **of** **light** **nuclei** **and** **fission** **of** **very** **heavy** **ones** **can** **release** **energy**.
+
+---
+
+**[Visual: Fission chain cartoon — one neutron triggers two fragments + neutrons]**
+
+**Narrator:**  
+**Induced** **fission** **splits** a **heavy** **nucleus** and **releases** **more** **neutrons**. **Control** **that** **balance** and **you** **have** **a** **reactor**; **lose** **control** **of** **the** **time** **scale** **and** **you** **have** **weapons** **physics**—**exams** **focus** **on** **energy** **and** **conservation** **laws**.
+
+---
+
+**[Visual: Checklist — decay types, half-life, binding energy, fission/fusion]**
+
+**Narrator:**  
+**Balance** **mass** **and** **atomic** **numbers** **every** **time** you **write** a **decay** **equation**. **Link** **mass** **change** to **energy** **with** **E equals m c squared** when **data** **allows**. Next: **space physics**.
+
+**[Visual: End card]**

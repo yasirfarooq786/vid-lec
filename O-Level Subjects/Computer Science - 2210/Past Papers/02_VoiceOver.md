@@ -1,28 +1,43 @@
-# Voice-Over Script: Past Papers (Computer Science - 2210)
+# Voice-Over Script: Past Papers and Examination Technique (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Past Papers. Welcome to Class!"]**
+**[Visual: Past paper booklet — timer on desk]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Past Papers**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Computer Science papers mix **facts**, **numbers**, and **procedures**. Past papers teach you which skills repeat and where careless slips cost the most marks.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Past Papers.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Past Papers, our foundation involves mastering the initial variables and definitions."
+**[Visual: Question stem highlighted — marks per part]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Scan for **marks**. A two-mark define needs tight wording; a six-mark trace needs a **perfect** table, not a story.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Past Papers, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Workings column for binary math]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Show conversions step by step. If the final digit is wrong, working can still rescue partial credit.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Past Papers. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Trace table with ruler lines]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Neat traces are faster to mark and easier for you to debug mid-exam. Treat them like mini programs—execute line by line.
+
+---
+
+**[Visual: Error log — “off-by-one”, “wrong base”, “SQL typo”]**
+
+**Narrator:**  
+Keep an error log. Computer Science improves fastest when you **repeat** corrected questions until they are automatic.
+
+---
+
+**[Visual: Checklist — time, working, trace, review]**
+
+**Narrator:**  
+Finish with two minutes to check bases, brackets, and SQL keywords. That is how you protect hard-earned marks.
+
+**[Visual: End card]**

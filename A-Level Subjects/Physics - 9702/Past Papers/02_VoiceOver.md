@@ -1,28 +1,43 @@
-# Voice-Over Script: Past Papers (Physics - 9702)
+# Voice-Over Script: Past Papers and Examination Technique (Cambridge International AS & A Level Physics 9702)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Physics - 9702: Past Papers. Welcome to Class!"]**
+**[Visual: Split screen — question paper and mark scheme]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Physics - 9702 syllabus: **Past Papers**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+**Past** **papers** are **training** **data** for **your** **exam** **brain**. **Use** them **timed** **first**, **then** **mark** **harshly** with the **official** **scheme**—**keywords** **matter** **as** **much** as **correct** **numbers**.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Past Papers.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Past Papers, our foundation involves mastering the initial variables and definitions."
+**[Visual: “State” vs “Explain” highlighted in different colours]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+**State** **wants** **a** **fact** **or** **law** **cleanly**. **Explain** **wants** **because**—**link** **cause** to **effect** using **syllabus** **physics**, **not** **everyday** **opinion**.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Past Papers, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Calculation lines — formula, rearrange, substitute, answer with unit]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+**Show** **the** **equation** **in** **symbols**, **rearrange** **before** **plugging** **numbers**, **then** **box** **only** **the** **final** **value** **with** **SI** **units**. **That** **path** **collects** **method** **marks** **even** **when** **arithmetic** **slips**.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Past Papers. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Graph axes with units and best-fit line]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+**Graph** **questions** **reward** **discipline**: **labelled** **axes**, **sensible** **scales**, **neat** **points**, **best-fit** **line** **that** **represents** **the** **trend**. **Gradient** **units** **come** **from** **rise** **over** **run**—**write** **them** **explicitly**.
+
+---
+
+**[Visual: Error log spreadsheet — date, topic, mistake type, fix]**
+
+**Narrator:**  
+**Keep** **an** **error** **log**—**one** **line** **per** **mistake** **type**. **If** **sign** **errors** **repeat**, **fix** **the** **diagram** **habit**, **not** **just** **the** **number**.
+
+---
+
+**[Visual: Checklist — timed papers, mark schemes, definitions, graphs]**
+
+**Narrator:**  
+**Quality** **beats** **quantity**: **fewer** **papers** **with** **deep** **correction** **beat** **many** **papers** **skim-read**. **You’re** **done** **when** **you** **can** **teach** **the** **method** **back** **without** **notes**.
+
+**[Visual: End card]**

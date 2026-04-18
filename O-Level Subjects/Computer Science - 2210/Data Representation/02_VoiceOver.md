@@ -1,28 +1,43 @@
-# Voice-Over Script: Data Representation (Computer Science - 2210)
+# Voice-Over Script: Data Representation (Cambridge International O Level Computer Science 2210)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Computer Science - 2210: Data Representation. Welcome to Class!"]**
+**[Visual: 0s and 1s streaming — title Data Representation]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Computer Science - 2210 syllabus: **Data Representation**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Everything in a digital device is ultimately **bits**. Your job is to convert between **binary**, **denary**, and **hex**, and to explain how bits encode text, pictures, and sound.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Data Representation.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Data Representation, our foundation involves mastering the initial variables and definitions."
+**[Visual: Place-value chart — binary columns 8, 4, 2, 1]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Binary to denary is place value. Hex groups four bits—one hex digit—so long binary strings become readable.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Data Representation, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Zoom into photo pixels — grid overlay]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Bitmap images store **pixels**. More pixels and deeper colour mean more data. State resolution and colour depth before you estimate size.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Data Representation. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Sound wave with sample dots along time axis]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Digital sound **samples** the wave. Higher **sample rate** and **resolution** improve quality but inflate file size.
+
+---
+
+**[Visual: Zip icon vs blurry JPEG — lossless vs lossy]**
+
+**Narrator:**  
+**Lossless** compression keeps every bit. **Lossy** throws away detail you might not notice—fine for photos, risky for text or archives.
+
+---
+
+**[Visual: Checklist — convert, calculate, explain trade-offs]**
+
+**Narrator:**  
+Drill conversions daily for a week, then practise one estimation question. Next: **Hardware and Software**.
+
+**[Visual: End card]**

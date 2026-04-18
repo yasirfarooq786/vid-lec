@@ -1,26 +1,76 @@
-# Complete Lecture: Media (Sociology - 9699)
+# Complete Lecture: Media (Cambridge International AS & A Level Sociology 9699)
 
-Welcome to today's essential lecture on **Media**. 
-This module forms a critical component of the Cambridge Sociology - 9699 syllabus and is designed to provide you with a comprehensive understanding of the core concepts, theories, and practical applications required for examination success.
+This lecture covers **mass media**, **ownership**, **representation**, **audiences**, and **new media** debates for **9699**. Programme: [Cambridge 9699](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-sociology-9699/).
 
-## 1. Introduction and Core Concepts
-To begin mastering Media, we must first establish the fundamental principles. By understanding the foundational building blocks of this subject, students can construct more complex arguments and solve advanced problems effortlessly.
-* **Key Definition:** The primary definition relevant to this sector of Sociology - 9699.
-* **Relevance:** Why this matters in a real-world context.
+---
 
-## 2. Theoretical Frameworks
-When we analyze Media, we apply specific theoretical frameworks established in the Sociology - 9699 curriculum. Focus on breaking down the primary mechanisms, structures, or methodologies here.
-> *Teacher's Note: Always remember to cross-reference these concepts with your syllabus guidelines.*
+## 1. Media and society
 
-## 3. Practical Examples and Application
-Let's look at an example. When applying the principles of Media in practice, you'll observe patterns that align directly with past examination questions.
-1. Identify the core issue in the scenario.
-2. Apply the relevant formula, theory, or historical context.
-3. Conclude with a clear, concise evaluation.
+**Mass media** communicate to large audiences (print, broadcast, digital). Sociology studies:
+- **Production** (ownership, regulation, professional routines).
+- **Content** (representation, ideology, framing).
+- **Audiences** (uses, effects, activity vs passivity).
 
-## Summary & Next Steps
-You have now covered the essentials of Media. 
-* Make sure you revise these core definitions.
-* Attempt at least two past-paper questions focusing specifically on this module.
+---
 
-**Class Dismissed!**
+## 2. Ownership and control
+
+**Marxist / neo-Marxist views:** concentrated ownership; **agenda-setting**; potential **ideological** role (pluralist critics disagree).
+
+**Pluralist views:** competition between outlets; audience **choice** limits power—evaluate with evidence (concentration metrics, case studies).
+
+---
+
+## 3. Representation
+
+Stereotypes by **gender**, **class**, **ethnicity**, **age**, **nationality**:
+- **Symbolic annihilation** (absence or marginal presence).
+- **Othering** and moral panics.
+
+Analyse **language**, **casting**, **story roles**, not only “positive/negative images.”
+
+---
+
+## 4. Media effects (debates)
+
+Traditional fears (violence imitation, copycat) vs cautious research conclusions:
+- Often **conditional** effects; **method** issues (lab vs real life).
+- **Cultivation**, **desensitisation**, **priming**—use as concepts, not magic bullets.
+
+---
+
+## 5. New media, globalisation, and participation
+
+- **Digital platforms** change production (user content) and surveillance (data).
+- **Echo chambers** and **filter bubbles**—debated strength; evaluate.
+- **Global flows** of culture—hybridity vs cultural imperialism debates (use carefully).
+
+---
+
+## 6. Methods in media topics
+
+Questions may link to **content analysis**, **semiotics**, **interviews**—connect method strengths/limitations to claims about media power.
+
+---
+
+## Common misconceptions
+
+- “Media controls everyone” is too strong for most sociological answers—show **mechanisms** and **limits**.
+- **Correlation** between media exposure and behaviour is not automatic **causation**.
+
+---
+
+## Revision checklist
+
+- [ ] Compare pluralist vs Marxist models of media power with evaluation.
+- [ ] Analyse one representation issue using production + content + audience.
+- [ ] Explain digital change with one benefit and one risk, theorised.
+- [ ] Practise one essay on media and crime or moral panics (if combined in your paper).
+
+**Next:** Theory and Methods.
+
+---
+
+### Reference
+
+- [Cambridge 9699](https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-sociology-9699/)

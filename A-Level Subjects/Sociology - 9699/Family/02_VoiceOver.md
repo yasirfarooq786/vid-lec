@@ -1,28 +1,43 @@
-# Voice-Over Script: Family (Sociology - 9699)
+# Voice-Over Script: Family (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Family. Welcome to Class!"]**
+**[Visual: Diverse households montage — nuclear, extended, single-parent, cohabiting]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Family**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+The family is not one fixed shape. Sociology asks what families **do** in society—socialise, care, stabilise—and how that connects to power and inequality.
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Family.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Family, our foundation involves mastering the initial variables and definitions."
+**[Visual: Functionalist diagram — socialisation + emotional support arrows]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Functionalist accounts stress integration: families pass on norms and support adults emotionally. Useful, but critics say this can ignore conflict inside homes.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Family, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Workplace vs home — “reproduction of labour power” caption]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Marxist views link family to capitalism—reproducing workers, consuming goods, sometimes hiding wider exploitation. Name the mechanism, not just the label.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Family. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Domestic labour split — feminist critique]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Feminist sociology highlights patriarchy and unpaid work. Answers improve when you specify *which* feminist argument and what evidence supports it.
+
+---
+
+**[Visual: Timeline — marriage age, divorce law, cohabitation]**
+
+**Narrator:**  
+Change matters: law, economics, and ideas shift family patterns. Avoid moral panic language—use **trends** and **explanation**.
+
+---
+
+**[Visual: Essay structure — define, theory, evidence, evaluate]**
+
+**Narrator:**  
+For exams, define your terms, argue with a perspective, then evaluate with another theory or limitation. Next: **Education**.
+
+**[Visual: End card]**

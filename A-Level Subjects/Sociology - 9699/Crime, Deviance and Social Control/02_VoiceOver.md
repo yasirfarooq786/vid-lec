@@ -1,28 +1,43 @@
-# Voice-Over Script: Crime, Deviance and Social Control (Sociology - 9699)
+# Voice-Over Script: Crime, Deviance and Social Control (Cambridge International AS & A Level Sociology 9699)
 
-**[Visual: Upbeat, modern educational intro plays. The title card appears: "Cambridge Sociology - 9699: Crime, Deviance and Social Control. Welcome to Class!"]**
+**[Visual: Scales of justice — title Crime, Deviance and Social Control]**
 
-**Narrator (Upbeat and clear):**
-"Welcome back, students! Today we are diving into an incredibly important area of your Sociology - 9699 syllabus: **Crime, Deviance and Social Control**. Understanding these core principles is absolutely essential for mastering the curriculum."
+**Narrator:**  
+Crime breaks the law; deviance breaks norms. Sociology asks why rules exist, who breaks them, and who gets punished—not just who looks “dangerous.”
 
-**[Visual: Transition to a sleek on-screen graphic highlighting the main definitions of Crime, Deviance and Social Control.]**
+---
 
-**Narrator:**
-"Before we get into the complex scenarios, let's look at the absolute fundamentals. What exactly are we dealing with? Just like building a house, you need a solid foundation before you build the walls. In Crime, Deviance and Social Control, our foundation involves mastering the initial variables and definitions."
+**[Visual: Police statistics sheet vs survey form — “what is missing?”]**
 
-**[Visual: An engaged, animated infographic illustrating a real-world example of the concept.]**
+**Narrator:**  
+Official crime figures are useful but incomplete. Victim surveys uncover hidden crime; self-reports probe unrecorded behaviour. Exam answers should **evaluate** data sources, not only quote numbers.
 
-**Narrator:**
-"Let's bring this to life with a real-world application. As you can see on screen, when we encounter a typical problem in Crime, Deviance and Social Control, the best approach is to systematically break it down. Identify your variables, apply your syllabus knowledge, and draw a logical conclusion."
+---
 
-**[Visual: Fast-paced montage of past-paper examples resolving cleanly into a 'pass' mark.]**
+**[Visual: Label sticker on silhouette — “deviant”]**
 
-**Narrator:**
-"At the end of the day, your goal is to translate this knowledge into your exams! The best way to solidify what you've learned here is straight practice. Take the theories we covered today and apply them to standard past-paper scenarios."
+**Narrator:**  
+Labelling theory tracks a process: act, reaction, identity shift, more deviance. Show the **sequence**—that is how you demonstrate understanding.
 
-**[Visual: The presenter returns on screen / Outro animation starts rolling with key takeaways.]**
+---
 
-**Narrator:**
-"And there you have it: the key essentials of Crime, Deviance and Social Control. Take an active approach to your revision, and you'll do great! Thanks for watching, and stay curious!"
+**[Visual: Courtroom — scales vs money bag / power silhouette]**
 
-**[Visual: Fade to black. End screen.]**
+**Narrator:**  
+Conflict perspectives ask whose behaviour is criminalised and whose harm is ignored—think corporate harm, gendered violence, or street policing patterns.
+
+---
+
+**[Visual: Newspaper headline montage — “moral panic” arrow]**
+
+**Narrator:**  
+Media can amplify fear and stereotype groups. Analyse **mechanisms**: selection, language, expert claims, public response.
+
+---
+
+**[Visual: Checklist — define, data, theory, evaluate]**
+
+**Narrator:**  
+Revise strain and labelling, then practise one comparison question. Next: **Media**.
+
+**[Visual: End card]**
