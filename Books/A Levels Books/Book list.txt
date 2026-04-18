@@ -1,0 +1,6 @@
+1	AS and A level Chemistry course book with CD ROM
+2	As & A Level Physics Course Book
+3	Edexcel International A Level Mathematics Pure 2 Student Book
+4	Edexcel International A Level Mathematics Mechanics 1 Student Book
+5	Cambridge International AS Level Information Technology
+6	Edexcel International A Level Mathematics Pure 1 Student Book

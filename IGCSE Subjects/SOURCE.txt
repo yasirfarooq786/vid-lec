@@ -1,0 +1,7 @@
+Subject list derived from the official Cambridge International IGCSE subject index.
+https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-igcse/subjects
+
+Each folder is named: Subject - syllabus code (or Subject (9-1) - code).
+Add your own topic subfolders (e.g. 01_Lecture.md) inside each subject as you build the course.
+
+Note: The index page links one syllabus without the code in the URL slug (English Second Language (9-1) count-in speaking). That subject is stored as: English Second Language Count in Speaking (9-1) - 0991 (syllabus 0991 confirmed on the qualification page).
